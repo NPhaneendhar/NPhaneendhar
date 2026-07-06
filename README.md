@@ -15,10 +15,6 @@
 
 </div>
 
----
-
-## 🐍 Live Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -29,9 +25,6 @@
 
 </div>
 
-> The snake above regenerates automatically from a scheduled GitHub Action — it "eats" your real contribution graph every day, so it always stays fresh and never needs manual updates.
-
----
 
 ## 👨‍💻 About Me
 
