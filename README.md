@@ -17,16 +17,6 @@
   </picture>
 </p>
 
-</div>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff99,50:00d4ff,100:7f00ff&section=header&text=🐍%20Contribution%20Snake&fontSize=40&fontColor=ffffff"/>
-
-<br>
-
 <h2>🛡 Digital Forensics Contribution Tracker</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=00FF41&center=true&width=700&lines=Tracking+every+commit...;Analyzing+GitHub+Activity...;Building+Open+Source+Projects...;Digital+Forensics+Developer"/>
