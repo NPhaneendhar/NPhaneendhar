@@ -4,11 +4,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Welcome+to+my+GitHub+Profile!" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=Profile+Views&color=00ff41&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/NPhaneendhar?style=for-the-badge&color=00ff41" />
-<img src="https://img.shields.io/github/stars/NPhaneendhar?style=for-the-badge&color=00ff41" />
-</p>
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
 
 </div>
 
