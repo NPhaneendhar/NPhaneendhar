@@ -107,3 +107,12 @@ I'm passionate about creating tools that help in:
 ### ⭐ Thank you for visiting my profile ⭐
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
