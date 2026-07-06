@@ -1,46 +1,39 @@
 <div align="center">
 
-# ⚡ PHANEENDHAR NITTALA ⚡
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=220&section=header&text=Phaneendhar%20Nittala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%7C%20Cybersecurity%20%7C%20Python&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Welcome+to+my+GitHub+Profile!" />
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Welcome+to+my+GitHub+Profile!" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=Profile%20Views&color=00ff41&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/NPhaneendhar?label=Followers&style=for-the-badge&color=00ff41"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fedora-Linux-294172?style=for-the-badge&logo=fedora"/>
+
+</div>
+
+---
+
+## 🐍 Live Contribution Snake
 
 <div align="center">
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
-    <img
-      src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg"
-      alt="GitHub Snake"
-      width="100%">
-  </picture>
-</p>
-
-<h2>🛡 Digital Forensics Contribution Tracker</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=00FF41&center=true&width=700&lines=Tracking+every+commit...;Analyzing+GitHub+Activity...;Building+Open+Source+Projects...;Digital+Forensics+Developer"/>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Contribution snake eating through the commit grid" src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-YES-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Digital_Forensics-LAB-00ff99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Fedora-Linux-294172?style=for-the-badge&logo=fedora"/>
-
 </div>
-# 👨‍💻 About Me
+
+> The snake above regenerates automatically from a scheduled GitHub Action — it "eats" your real contribution graph every day, so it always stays fresh and never needs manual updates.
+
+---
+
+## 👨‍💻 About Me
 
 ```yaml
 Name      : Phaneendhar Nittala
@@ -56,84 +49,102 @@ Status    : Building Awesome Projects 🚀
 
 ---
 
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
-- 🐍 Advanced Python
-- 🐧 Linux Administration
-- 🔬 Digital Forensics
-- 🤖 Artificial Intelligence
-- 🌐 Full Stack Web Development
-- 🔒 Cybersecurity
-- 📱 Android Forensics
+<div align="center">
+
+| 🐍 Advanced Python | 🐧 Linux Admin | 🔬 Digital Forensics |
+|:---:|:---:|:---:|
+| 🤖 Artificial Intelligence | 🌐 Full Stack Web Dev | 🔒 Cybersecurity |
+| 📱 Android Forensics | 🕵️ Threat Hunting | 📊 Data Analysis |
+
+</div>
 
 ---
 
-# ⚡ Tech Arsenal
+## ⚡ Tech Arsenal
 
-### Programming
+<div align="center">
+
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web
+**Web**
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Operating Systems
+**Operating Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-### Tools
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-# 🎯 Mission
+## 📊 GitHub Stats
 
-> **"Every file tells a story. Every log leaves evidence. Every byte matters."**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="48%"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=NPhaneendhar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="70%"/>
+
+</div>
+
+---
+
+## 🎯 Mission
+
+> *"Every file tells a story. Every log leaves evidence. Every byte matters."*
 
 I'm passionate about creating tools that help in:
 
-🔬 Digital Evidence Analysis
-
-🛡 Malware Detection
-
-📂 File Investigation
-
-🤖 AI-powered Forensics
-
-🐧 Linux Automation
-
-🌐 Modern Web Applications
-
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔬 NITTALA Forensic Toolkit | Digital Evidence Analysis Toolkit |
-| 🤖 AI Investigation Assistant | AI-powered Forensic Helper |
-| 🛡 Malware Detector | Static File Investigation |
-| 🔐 Hash Generator | MD5, SHA1, SHA256 Generator |
-| 📂 Metadata Analyzer | Extract File Metadata |
-| 🐧 Linux Automation | Fedora & Bash Scripts |
-
-
-# 💡 Favorite Quote
-
-> **"In digital forensics, nothing is truly deleted—only waiting to be discovered."**
+- 🔬 Digital Evidence Analysis
+- 🛡 Malware Detection
+- 📂 File Investigation
+- 🤖 AI-powered Forensics
+- 🐧 Linux Automation
+- 🌐 Modern Web Applications
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🔬 **NITTALA Forensic Toolkit** | Digital Evidence Analysis Toolkit |
+| 🤖 **AI Investigation Assistant** | AI-powered Forensic Helper |
+| 🛡 **Malware Detector** | Static File Investigation |
+| 🔐 **Hash Generator** | MD5, SHA1, SHA256 Generator |
+| 📂 **Metadata Analyzer** | Extract File Metadata |
+| 🐧 **Linux Automation** | Fedora & Bash Scripts |
+
+---
+
+## 💡 Favorite Quote
+
+> *"In digital forensics, nothing is truly deleted — only waiting to be discovered."*
+
+---
+
+<div align="center">
+
 ### ⭐ Thank you for visiting my profile ⭐
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=120&section=footer"/>
+
 </div>
-## 🐍 Contribution Snake
-
-
