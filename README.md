@@ -12,13 +12,35 @@
 
 </div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff99,50:00d4ff,100:7f00ff&section=header&text=🐍%20Contribution%20Snake&fontSize=40&fontColor=ffffff"/>
+
+<br>
+
+<h2>🛡 Digital Forensics Contribution Tracker</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=00FF41&center=true&width=700&lines=Tracking+every+commit...;Analyzing+GitHub+Activity...;Building+Open+Source+Projects...;Digital+Forensics+Developer"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-YES-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Digital_Forensics-LAB-00ff99?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Fedora-Linux-294172?style=for-the-badge&logo=fedora"/>
+
+</div>
 # 👨‍💻 About Me
 
 ```yaml
