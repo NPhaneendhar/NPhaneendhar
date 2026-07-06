@@ -5,14 +5,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Welcome+to+my+GitHub+Profile!" />
 
 <div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg"
+      alt="GitHub Snake"
+      width="100%">
+  </picture>
+</p>
 
 </div>
 
