@@ -1,26 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,50:ffffff,100:f5f5f7&height=250&section=header&text=PHANEENDHAR%20NITTALA&fontSize=44&fontColor=1d1d1f&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%C2%B7%20Cybersecurity%20%C2%B7%20Python%20Developer&descAlignY=60&descSize=16&descColor=0071e3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:6a3093,100:24243e&height=260&section=header&text=PHANEENDHAR%20NITTALA&fontSize=46&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Digital%20Forensics%20%E2%9C%A6%20Cybersecurity%20%E2%9C%A6%20Python%20Developer&descAlignY=58&descSize=17&descColor=E8D3FF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&pause=1000&color=1D1D1F&background=00000000&center=true&vCenter=true&width=800&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Designed+with+Simplicity+%26+Purpose" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&colorA=FFD700&colorB=B983FF&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Crafted+with+%E2%9D%A4%EF%B8%8F+%26+Curiosity" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=PROFILE+VIEWS&color=0071e3&style=for-the-badge&labelColor=1d1d1f"/>
-<img src="https://img.shields.io/github/followers/NPhaneendhar?label=FOLLOWERS&style=for-the-badge&color=0071e3&labelColor=1d1d1f"/>
+<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=PROFILE+VIEWS&color=B983FF&style=for-the-badge&labelColor=24243e"/>
+<img src="https://img.shields.io/github/followers/NPhaneendhar?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=24243e"/>
 
 <br>
 
-<a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=0071e3"/></a>
-<a href="https://p-h-a-n-i-x-phaneendhar-s-investigation-expert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1"><img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=0071e3"/></a>
-<a href="https://www.instagram.com/phani.49"><img src="https://img.shields.io/badge/Instagram-1d1d1f?style=for-the-badge&logo=instagram&logoColor=0071e3"/></a>
+<a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
+<a href="https://p-h-a-n-i-x-phaneendhar-s-investigation-expert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=B983FF"/></a>
+<a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+<a href="https://www.instagram.com/phani.49"><img src="https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=B983FF"/></a>
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:d2d2d7,50:f5f5f7,100:d2d2d7&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
 ## 🐍 Live Contribution Snake
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:d2d2d7,50:f5f5f7,100:d2d2d7&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
 ## 👨‍💻 About Me
 
@@ -59,14 +59,14 @@ Status    : Building Awesome Projects 🚀
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://images.unsplash.com/photo-1591160690555-5debfba289f0?fm=jpg&q=80&w=500&auto=format&fit=crop" width="200" style="border-radius:20px; border: 3px solid #0071e3;"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JibXpzN3p2MTJ1Y3h6bW5oejhxOXA4cHB2am5iYTg3cjIzaGNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1hM5kW7OU6d7AOUUjv/giphy.gif" width="220" style="border-radius:16px;"/>
 <br><sub>🐾 my desk buddy while debugging</sub>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:d2d2d7,50:f5f5f7,100:d2d2d7&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
 ## 🧠 Currently Learning
 
@@ -79,17 +79,17 @@ Status    : Building Awesome Projects 🚀
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:d2d2d7,50:f5f5f7,100:d2d2d7&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
 ## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,linux,fedora,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,linux,fedora,git,github,vscode&theme=dark" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:d2d2d7,50:f5f5f7,100:d2d2d7&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
 ## 🎯 Mission
 
@@ -104,7 +104,7 @@ I'm passionate about creating tools that help in:
 - 🐧 Linux Automation
 - 🌐 Modern Web Applications
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:d2d2d7,50:f5f5f7,100:d2d2d7&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
 ## 🚀 Featured Projects
 
@@ -117,7 +117,7 @@ I'm passionate about creating tools that help in:
 | 📂 **Metadata Analyzer** | Extract File Metadata |
 | 🐧 **Linux Automation** | Fedora & Bash Scripts |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:d2d2d7,50:f5f5f7,100:d2d2d7&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
 ## 💡 Favorite Quote
 
@@ -126,8 +126,8 @@ I'm passionate about creating tools that help in:
 <div align="center">
 
 ### ⭐ Thank you for visiting my profile ⭐
-### Designed with simplicity, built with purpose 🤍
+### Built with patience, late nights, and a real love for this craft 💜
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d2d2d7,50:f5f5f7,100:ffffff&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,35:6a3093,70:302b63,100:0f0c29&height=150&section=footer"/>
 
 </div>
