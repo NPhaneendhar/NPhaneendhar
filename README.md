@@ -1,81 +1,111 @@
-<h1 align="center">Hi 👋, I'm Phaneendhar Nittala</h1>
+<div align="center">
 
-<h3 align="center">
-Forensic Science Student | Python Developer | Linux Enthusiast
-</h3>
+# ⚡ PHANEENDHAR NITTALA ⚡
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Welcome+to+my+GitHub+Profile!" />
 
-## 🔥 About Me
+<p>
+<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=Profile+Views&color=00ff41&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/NPhaneendhar?style=for-the-badge&color=00ff41" />
+<img src="https://img.shields.io/github/stars/NPhaneendhar?style=for-the-badge&color=00ff41" />
+</p>
 
-- 🔬 Forensic Science Student
-- 💻 Learning Python & Web Development
-- 🐧 Fedora Linux User
-- 🛡️ Interested in Digital Forensics & Cybersecurity
-- 🤖 Exploring AI & Automation
-- 🚀 Building real-world forensic tools
+</div>
 
 ---
 
-## 🛠️ Skills
+# 💻 Digital Forensics Laboratory
+
+```bash
+> boot.sh
+
+Loading Python....................OK
+Loading Fedora Linux..............OK
+Loading Digital Forensics.........OK
+Loading AI........................OK
+Loading Cybersecurity.............OK
+
+System Status: ONLINE ✅
+```
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name      : Phaneendhar Nittala
+Country   : India 🇮🇳
+Role      : Forensic Science Student
+OS        : Fedora Linux
+Editor    : VS Code
+Languages : Python | HTML | CSS | JavaScript | C
+Interest  : Digital Forensics
+Focus     : Cybersecurity & AI
+Status    : Building Awesome Projects 🚀
+```
+
+---
+
+# 🧠 Currently Learning
+
+- 🐍 Advanced Python
+- 🐧 Linux Administration
+- 🔬 Digital Forensics
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Web Development
+- 🔒 Cybersecurity
+- 📱 Android Forensics
+
+---
+
+# ⚡ Tech Arsenal
 
 ### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+### Web
 
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
----
-
-### Operating System
+### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora)
-
----
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🚀 Current Projects
+# 🎯 Mission
 
-- 🔬 NITTALA Forensic Toolkit
-- 🛡️ Malware Detection Tool
-- 🤖 AI Forensic Assistant
-- 🐧 Linux Automation Scripts
+> **"Every file tells a story. Every log leaves evidence. Every byte matters."**
 
----
+I'm passionate about creating tools that help in:
 
-## 📊 GitHub Stats
+🔬 Digital Evidence Analysis
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=tokyonight)
+🛡 Malware Detection
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=tokyonight)
+📂 File Investigation
 
----
+🤖 AI-powered Forensics
 
-## 🔥 GitHub Streak
+🐧 Linux Automation
 
-![Streak](https://streak-stats.demolab.com?user=NPhaneendhar&theme=tokyonight)
+🌐 Modern Web Applications
 
 ---
 
-## 👀 Visitors
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=NPhaneendhar&color=green)
+### ⭐ Thank you for visiting my profile ⭐
 
----
-
-> 💡 "Learning by building real-world projects."
+</div>
