@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&colorA=FFD700&colorB=B983FF&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Crafted+with+%E2%9D%A4%EF%B8%8F+%26+Curiosity" />
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=PROFILE+VIEWS&color=B983FF&style=for-the-badge&labelColor=24243e"/>
-<img src="https://img.shields.io/github/followers/NPhaneendhar?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=24243e"/>
-
 <br>
 
 <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
