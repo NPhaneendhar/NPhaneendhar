@@ -134,44 +134,6 @@ I'm passionate about creating tools that help in:
 | 📂 Metadata Analyzer | Extract File Metadata |
 | 🐧 Linux Automation | Fedora & Bash Scripts |
 
----
-
-# 📚 Current Roadmap
-
-```text
-███████████████████████████
-
-Python            ███████████░ 90%
-
-Linux             █████████░░░ 85%
-
-HTML/CSS          ██████████░░ 80%
-
-JavaScript        ███████░░░░░ 60%
-
-Digital Forensics ████████████ 95%
-
-Cybersecurity     █████████░░░ 80%
-
-Artificial AI     ██████░░░░░░ 55%
-
-███████████████████████████
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 20+ Open Source Projects
-- ✅ Learn Advanced Python
-- ✅ Learn Reverse Engineering
-- ✅ Master Linux
-- ✅ Publish Digital Forensics Toolkit
-- ✅ Learn Machine Learning
-- ✅ Contribute to Open Source
-- ✅ Build AI Investigation Platform
-
----
 
 # 💡 Favorite Quote
 
