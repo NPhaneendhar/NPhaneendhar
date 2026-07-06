@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&colorA=FFD700&colorB=B983FF&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Crafted+with+%E2%9D%A4%EF%B8%8F+%26+Curiosity" />
 
-<br><br>
-<br>
-
 <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
 <a href="https://p-h-a-n-i-x-phaneendhar-s-investigation-expert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=B983FF"/></a>
 <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
