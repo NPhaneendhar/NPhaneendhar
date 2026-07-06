@@ -1,26 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:6a3093,100:24243e&height=260&section=header&text=PHANEENDHAR%20NITTALA&fontSize=46&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Digital%20Forensics%20%E2%9C%A6%20Cybersecurity%20%E2%9C%A6%20Python%20Developer&descAlignY=58&descSize=17&descColor=E8D3FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b2e,35:191947,70:2d1b4e,100:0b0b2e&height=260&section=header&text=PHANEENDHAR%20NITTALA&fontSize=46&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Digital%20Forensics%20%E2%9C%A6%20Cybersecurity%20%E2%9C%A6%20Python%20Developer&descAlignY=58&descSize=17&descColor=E0C3FC"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&colorA=FFD700&colorB=B983FF&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Crafted+with+%E2%9D%A4%EF%B8%8F+%26+Curiosity" />
+<img width="700" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE3MCIgdmlld0JveD0iMCAwIDkwMCAxNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNjAlIiB5PSItNjAlIiB3aWR0aD0iMjIwJSIgaGVpZ2h0PSIyMjAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNiIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmdHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBiMGIyZSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzE5MTk0NyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwYjBiMmUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE3MCIgcng9IjE4IiBmaWxsPSJ1cmwoI2JnR3JhZCkiLz4KCiAgPGcgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIyOSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDx0ZXh0IHg9IjQ1MCIgeT0iOTUiIGZpbGw9IiNmZmQ3MDAiIG9wYWNpdHk9IjAiPkRpZ2l0YWwgRm9yZW5zaWNzIFN0dWRlbnQKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBrZXlUaW1lcz0iMDswLjA1OzAuMTU7MC4yIiBkdXI9IjE4cyIgYmVnaW49IjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgogICAgPHRleHQgeD0iNDUwIiB5PSI5NSIgZmlsbD0iI2UwYzNmYyIgb3BhY2l0eT0iMCI+UHl0aG9uIERldmVsb3BlcgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDU7MC4xNTswLjIiIGR1cj0iMThzIiBiZWdpbj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3RleHQ+CiAgICA8dGV4dCB4PSI0NTAiIHk9Ijk1IiBmaWxsPSIjZmZkNzAwIiBvcGFjaXR5PSIwIj5MaW51eCAmYW1wOyBGZWRvcmEgRW50aHVzaWFzdAogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDU7MC4xNTswLjIiIGR1cj0iMThzIiBiZWdpbj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3RleHQ+CiAgICA8dGV4dCB4PSI0NTAiIHk9Ijk1IiBmaWxsPSIjZTBjM2ZjIiBvcGFjaXR5PSIwIj5DeWJlcnNlY3VyaXR5IExlYXJuZXIKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBrZXlUaW1lcz0iMDswLjA1OzAuMTU7MC4yIiBkdXI9IjE4cyIgYmVnaW49IjlzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgogICAgPHRleHQgeD0iNDUwIiB5PSI5NSIgZmlsbD0iI2ZmZDcwMCIgb3BhY2l0eT0iMCI+QnVpbGRpbmcgUmVhbC1Xb3JsZCBGb3JlbnNpYyBUb29scwogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDU7MC4xNTswLjIiIGR1cj0iMThzIiBiZWdpbj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC90ZXh0PgogICAgPHRleHQgeD0iNDUwIiB5PSI5NSIgZmlsbD0iI2UwYzNmYyIgb3BhY2l0eT0iMCI+Q3JhZnRlZCB3aXRoIGEgTGl0dGxlIEJpdCBvZiBNYWdpYyDinKgKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBrZXlUaW1lcz0iMDswLjA1OzAuMTU7MC4yIiBkdXI9IjE4cyIgYmVnaW49IjE1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvdGV4dD4KICA8L2c+CgogIDwhLS0gbWFnaWMgc3RhcmZpZWxkIC0tPgogIDxnPgogICAgPHBhdGggZD0iTTEyMCAzMCBMMTI0IDQwIEwxMzQgNDMgTDEyNCA0NiBMMTIwIDU2IEwxMTYgNDYgTDEwNiA0MyBMMTE2IDQwIFoiIGZpbGw9IiNmZmQ3MDAiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuMjsxOzAuMiIgZHVyPSIyLjRzIiBiZWdpbj0iMHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBmcm9tPSIwIDEyMCA0MyIgdG89IjM2MCAxMjAgNDMiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3BhdGg+CiAgICA8cGF0aCBkPSJNODAwIDExNSBMODAzIDEyMyBMODExIDEyNiBMODAzIDEyOSBMODAwIDEzNyBMNzk3IDEyOSBMNzg5IDEyNiBMNzk3IDEyMyBaIiBmaWxsPSIjZTBjM2ZjIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjI7MTswLjIiIGR1cj0iMi44cyIgYmVnaW49IjAuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBmcm9tPSIwIDgwMCAxMjYiIHRvPSItMzYwIDgwMCAxMjYiIGR1cj0iOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3BhdGg+CiAgICA8cGF0aCBkPSJNNjAgMTI1IEw2MiAxMzAgTDY3IDEzMiBMNjIgMTM0IEw2MCAxMzkgTDU4IDEzNCBMNTMgMTMyIEw1OCAxMzAgWiIgZmlsbD0iI2ZmZDcwMCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzAiIGR1cj0iMS45cyIgYmVnaW49IjEuMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3BhdGg+CiAgICA8cGF0aCBkPSJNODQwIDM1IEw4NDIgNDAgTDg0NyA0MiBMODQyIDQ0IEw4NDAgNDkgTDgzOCA0NCBMODMzIDQyIEw4MzggNDAgWiIgZmlsbD0iI2UwYzNmYyI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzAiIGR1cj0iMi40cyIgYmVnaW49IjEuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3BhdGg+CiAgICA8cGF0aCBkPSJNNDUwIDI1IEw0NTIgMzAgTDQ1NyAzMiBMNDUyIDM0IEw0NTAgMzkgTDQ0OCAzNCBMNDQzIDMyIEw0NDggMzAgWiIgZmlsbD0iI2ZmZmZmZiI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzAiIGR1cj0iMi4xcyIgYmVnaW49IjAuOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L3BhdGg+CiAgICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIxNDAiIHI9IjEuOCIgZmlsbD0iI2ZmZDcwMCI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzAiIGR1cj0iMS42cyIgYmVnaW49IjAuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjIzMCIgY3k9IjYwIiByPSIxLjYiIGZpbGw9IiNmZmZmZmYiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTswIiBkdXI9IjJzIiBiZWdpbj0iMC45cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNjcwIiBjeT0iNTUiIHI9IjEuNiIgZmlsbD0iI2UwYzNmYyI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzAiIGR1cj0iMS44cyIgYmVnaW49IjEuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjEzMCIgcj0iMS40IiBmaWxsPSIjZmZkNzAwIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MCIgZHVyPSIyLjFzIiBiZWdpbj0iMC40cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNjIwIiBjeT0iMTQwIiByPSIxLjQiIGZpbGw9IiNmZmZmZmYiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTswIiBkdXI9IjEuN3MiIGJlZ2luPSIwLjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIxODAiIGN5PSIxNDUiIHI9IjEuMiIgZmlsbD0iI2UwYzNmYyI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzAiIGR1cj0iMS45cyIgYmVnaW49IjEuMHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjE0MCIgcj0iMS4zIiBmaWxsPSIjZmZkNzAwIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MCIgZHVyPSIyLjNzIiBiZWdpbj0iMC4ycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjM5MCIgY3k9IjQ1IiByPSIxLjMiIGZpbGw9IiNmZmZmZmYiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTswIiBkdXI9IjEuN3MiIGJlZ2luPSIxLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC9jaXJjbGU+CiAgPC9nPgo8L3N2Zz4K" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=PROFILE+VIEWS&color=B983FF&style=for-the-badge&labelColor=24243e"/>
-<img src="https://img.shields.io/github/followers/NPhaneendhar?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=24243e"/>
-
-<br>
-
-<a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
-<a href="https://p-h-a-n-i-x-phaneendhar-s-investigation-expert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=B983FF"/></a>
-<a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
-<a href="https://www.instagram.com/phani.49"><img src="https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=B983FF"/></a>
+<a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b2e?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
+<a href="https://p-h-a-n-i-x-phaneendhar-s-investigation-expert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b0b2e?style=for-the-badge&logo=vercel&logoColor=E0C3FC"/></a>
+<a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1"><img src="https://img.shields.io/badge/LinkedIn-0b0b2e?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+<a href="https://www.instagram.com/phani.49"><img src="https://img.shields.io/badge/Instagram-0b0b2e?style=for-the-badge&logo=instagram&logoColor=E0C3FC"/></a>
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b2e,50:191947,100:0b0b2e&height=4"/>
 
 ## 🐍 Live Contribution Snake
 
@@ -36,13 +31,9 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b2e,50:191947,100:0b0b2e&height=4"/>
 
 ## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="65%" valign="top">
 
 ```yaml
 Name      : Phaneendhar Nittala
@@ -56,17 +47,7 @@ Focus     : Cybersecurity & AI
 Status    : Building Awesome Projects 🚀
 ```
 
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JibXpzN3p2MTJ1Y3h6bW5oejhxOXA4cHB2am5iYTg3cjIzaGNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1hM5kW7OU6d7AOUUjv/giphy.gif" width="220" style="border-radius:16px;"/>
-<br><sub>🐾 my desk buddy while debugging</sub>
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b2e,50:191947,100:0b0b2e&height=4"/>
 
 ## 🧠 Currently Learning
 
@@ -79,7 +60,7 @@ Status    : Building Awesome Projects 🚀
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b2e,50:191947,100:0b0b2e&height=4"/>
 
 ## ⚡ Tech Arsenal
 
@@ -89,7 +70,7 @@ Status    : Building Awesome Projects 🚀
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b2e,50:191947,100:0b0b2e&height=4"/>
 
 ## 🎯 Mission
 
@@ -104,7 +85,7 @@ I'm passionate about creating tools that help in:
 - 🐧 Linux Automation
 - 🌐 Modern Web Applications
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b2e,50:191947,100:0b0b2e&height=4"/>
 
 ## 🚀 Featured Projects
 
@@ -117,7 +98,7 @@ I'm passionate about creating tools that help in:
 | 📂 **Metadata Analyzer** | Extract File Metadata |
 | 🐧 **Linux Automation** | Fedora & Bash Scripts |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b2e,50:191947,100:0b0b2e&height=4"/>
 
 ## 💡 Favorite Quote
 
@@ -126,8 +107,8 @@ I'm passionate about creating tools that help in:
 <div align="center">
 
 ### ⭐ Thank you for visiting my profile ⭐
-### Built with patience, late nights, and a real love for this craft 💜
+### Crafted with patience, purpose, and a little bit of magic ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,35:6a3093,70:302b63,100:0f0c29&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191947,35:2d1b4e,70:0b0b2e,100:0b0b2e&height=140&section=footer"/>
 
 </div>
