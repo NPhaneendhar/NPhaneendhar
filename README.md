@@ -83,22 +83,8 @@ Status    : Building Awesome Projects 🚀
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="48%"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=NPhaneendhar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="70%"/>
-
-</div>
-
----
 
 ## 🎯 Mission
 
