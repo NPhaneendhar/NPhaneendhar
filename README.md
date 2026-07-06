@@ -85,43 +85,6 @@ I'm passionate about creating tools that help in:
 
 🌐 Modern Web Applications
 
----
-
-<div align="center">
----
-
-# ⚡ Digital Forensics Dashboard
-
-<div align="center">
-
-| 🖥️ System | Status |
-|:----------|:------:|
-| 🐍 Python | 🟢 Online |
-| 🐧 Fedora Linux | 🟢 Online |
-| 🔬 Digital Forensics | 🟢 Active |
-| 🌐 Web Development | 🟢 Active |
-| 🤖 Artificial Intelligence | 🟡 Learning |
-| 🔒 Cybersecurity | 🟢 Active |
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NPhaneendhar&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NPhaneendhar&theme=github-dark&hide_border=true"/>
-
-</div>
 
 # 🚀 Featured Projects
 
