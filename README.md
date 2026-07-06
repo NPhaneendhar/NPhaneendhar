@@ -8,13 +8,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=PROFILE+VIEWS&color=B983FF&style=for-the-badge&labelColor=24243e"/>
 <img src="https://img.shields.io/github/followers/NPhaneendhar?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=24243e"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-B983FF?style=for-the-badge&labelColor=24243e"/>
 
 <br>
 
-<a href="https://github.com/NPhaneendhar"><img src="https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=B983FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=FFD700"/></a>
+<a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
+<a href="https://p-h-a-n-i-x-phaneendhar-s-investigation-expert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=B983FF"/></a>
+<a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+<a href="https://www.instagram.com/phani.49"><img src="https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=B983FF"/></a>
 
 </div>
 
@@ -40,6 +40,10 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ```yaml
 Name      : Phaneendhar Nittala
 Country   : India 🇮🇳
@@ -51,6 +55,16 @@ Interest  : Digital Forensics
 Focus     : Cybersecurity & AI
 Status    : Building Awesome Projects 🚀
 ```
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JibXpzN3p2MTJ1Y3h6bW5oejhxOXA4cHB2am5iYTg3cjIzaGNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1hM5kW7OU6d7AOUUjv/giphy.gif" width="220" style="border-radius:16px;"/>
+<br><sub>🐾 my desk buddy while debugging</sub>
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
