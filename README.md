@@ -22,8 +22,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
-## 🐍 Live Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -31,8 +29,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg">
   <img alt="Contribution snake eating through the commit grid" src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
-<sub>🔁 auto-regenerated daily by a scheduled GitHub Action from real commit activity</sub>
 
 </div>
 
