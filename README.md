@@ -105,6 +105,120 @@ I'm passionate about creating tools that help in:
 ---
 
 <div align="center">
+---
+
+# ⚡ Digital Forensics Dashboard
+
+<div align="center">
+
+| 🖥️ System | Status |
+|:----------|:------:|
+| 🐍 Python | 🟢 Online |
+| 🐧 Fedora Linux | 🟢 Online |
+| 🔬 Digital Forensics | 🟢 Active |
+| 🌐 Web Development | 🟢 Active |
+| 🤖 Artificial Intelligence | 🟡 Learning |
+| 🔒 Cybersecurity | 🟢 Active |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NPhaneendhar&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NPhaneendhar&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NPhaneendhar&theme=matrix&margin-w=10&margin-h=10&no-frame=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔬 NITTALA Forensic Toolkit | Digital Evidence Analysis Toolkit |
+| 🤖 AI Investigation Assistant | AI-powered Forensic Helper |
+| 🛡 Malware Detector | Static File Investigation |
+| 🔐 Hash Generator | MD5, SHA1, SHA256 Generator |
+| 📂 Metadata Analyzer | Extract File Metadata |
+| 🐧 Linux Automation | Fedora & Bash Scripts |
+
+---
+
+# 📚 Current Roadmap
+
+```text
+███████████████████████████
+
+Python            ███████████░ 90%
+
+Linux             █████████░░░ 85%
+
+HTML/CSS          ██████████░░ 80%
+
+JavaScript        ███████░░░░░ 60%
+
+Digital Forensics ████████████ 95%
+
+Cybersecurity     █████████░░░ 80%
+
+Artificial AI     ██████░░░░░░ 55%
+
+███████████████████████████
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 20+ Open Source Projects
+- ✅ Learn Advanced Python
+- ✅ Learn Reverse Engineering
+- ✅ Master Linux
+- ✅ Publish Digital Forensics Toolkit
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Build AI Investigation Platform
+
+---
+
+# 💡 Favorite Quote
+
+> **"In digital forensics, nothing is truly deleted—only waiting to be discovered."**
+
+---
 
 ### ⭐ Thank you for visiting my profile ⭐
 
