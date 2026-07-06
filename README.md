@@ -12,23 +12,6 @@
 
 </div>
 
----
-
-# 💻 Digital Forensics Laboratory
-
-```bash
-> boot.sh
-
-Loading Python....................OK
-Loading Fedora Linux..............OK
-Loading Digital Forensics.........OK
-Loading AI........................OK
-Loading Cybersecurity.............OK
-
-System Status: ONLINE ✅
-```
-
----
 
 # 👨‍💻 About Me
 
