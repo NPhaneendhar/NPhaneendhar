@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&colorA=FFD700&colorB=B983FF&center=true&vCenter=true&width=900&lines=Digital+Forensics+Student;Python+Developer;Linux+%7C+Fedora+Enthusiast;Cybersecurity+Learner;Building+Real-World+Forensic+Tools;Crafted+with+%E2%9D%A4%EF%B8%8F+%26+Curiosity" />
 
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=NPhaneendhar&label=PROFILE+VIEWS&color=B983FF&style=for-the-badge&labelColor=24243e"/>
 <img src="https://img.shields.io/github/followers/NPhaneendhar?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=24243e"/>
@@ -22,8 +21,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:24243e&height=4"/>
 
-## 🐍 Live Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -32,7 +29,6 @@
   <img alt="Contribution snake eating through the commit grid" src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<sub>🔁 auto-regenerated daily by a scheduled GitHub Action from real commit activity</sub>
 
 </div>
 
@@ -56,13 +52,7 @@ Focus     : Cybersecurity & AI
 Status    : Building Awesome Projects 🚀
 ```
 
-</td>
-<td width="35%" align="center" valign="middle">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JibXpzN3p2MTJ1Y3h6bW5oejhxOXA4cHB2am5iYTg3cjIzaGNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1hM5kW7OU6d7AOUUjv/giphy.gif" width="220" style="border-radius:16px;"/>
-<br><sub>🐾 my desk buddy while debugging</sub>
-
-</td>
 </tr>
 </table>
 
