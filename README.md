@@ -122,19 +122,7 @@ I'm passionate about creating tools that help in:
 
 </div>
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -151,18 +139,6 @@ I'm passionate about creating tools that help in:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NPhaneendhar&theme=github-dark&hide_border=true"/>
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NPhaneendhar&theme=matrix&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
