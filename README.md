@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- RETRO MAINFRAME CASSETTE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,80:21262d,100:0d1117&stroke=39d353&strokeWidth=2&height=210&section=header&text=%E2%96%92%E2%96%92%20PHANEENDHAR%20NITTALA%20%E2%96%92%E2%96%92&fontSize=40&fontColor=39D353&animation=fadeIn&fontAlignY=42&desc=%3C%20RETRO%20TERMINAL%20v2.4%20%7C%20FORENSICS%20%E2%80%A2%20CYBER%20INVESTIGATION%20%E2%80%A2%20PHANIX%20%3E&descAlignY=68&descSize=13&descColor=7EE787"/>
+<a href="https://github.com/NPhaneendhar">
+  <img width="100%" src="assets/retro-header.svg" alt="PHANEENDHAR NITTALA // RETRO MAINFRAME HUD" />
+</a>
 
 <br><br>
 
@@ -146,7 +148,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&stroke=39d353&strokeWidth=1.5&height=90&section=header&text=P.H.A.N.I.X&fontSize=32&fontColor=39D353&animation=fadeIn"/>
+<img width="100%" src="assets/phanix-banner.svg" alt="PHANIX Header Banner" />
 
 ### **Phaneendhar's Investigation eXpert**
 
@@ -481,7 +483,7 @@ $ stat evidence_file.bin && file -k evidence_file.bin
 
 <br>
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&stroke=39d353&strokeWidth=1&height=85&text=EVERY%20BYTE%20CAN%20MATTER&fontSize=22&fontColor=39D353"/>
+<img width="85%" src="assets/motto-banner.svg" alt="Every Byte Can Matter" />
 
 ### **Every file tells a story. Every log leaves a trace. Every byte can matter.**
 
@@ -493,9 +495,9 @@ $ stat evidence_file.bin && file -k evidence_file.bin
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&stroke=39d353&strokeWidth=1.5&height=120&section=footer"/>
+<img width="100%" src="assets/retro-footer.svg" alt="Retro Mission Footer" />
 
-<br>
+<br><br>
 
 <!-- FOOTER LOGO -->
 <a href="https://github.com/NPhaneendhar">

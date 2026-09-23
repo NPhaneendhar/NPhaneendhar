@@ -1,0 +1,26 @@
+<svg width="100%" height="90" viewBox="0 0 950 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="phanixHdrBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f14"/>
+      <stop offset="50%" stop-color="#111923"/>
+      <stop offset="100%" stop-color="#0a0f14"/>
+    </linearGradient>
+    <filter id="phanixGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="946" height="86" rx="8" fill="url(#phanixHdrBg)" stroke="#238636" stroke-width="1.5"/>
+  <rect x="8" y="8" width="934" height="74" rx="5" fill="#070b0e" stroke="#30363d" stroke-width="1"/>
+
+  <text x="475" y="42" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="900" fill="#39d353" text-anchor="middle" letter-spacing="8" filter="url(#phanixGlow)">
+    [ P . H . A . N . I . X ]
+  </text>
+  <text x="475" y="65" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="600" fill="#8b949e" text-anchor="middle" letter-spacing="3">
+    AUTONOMOUS FORENSIC INVESTIGATION &amp; RESEARCH ARCHITECTURE
+  </text>
+</svg>
