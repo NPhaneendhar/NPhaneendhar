@@ -1,70 +1,75 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:00e5ff,100:090d16&height=260&section=header&text=PHANEENDHAR%20NITTALA&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=DIGITAL%20FORENSICS%20%E2%80%A2%20CYBER%20INVESTIGATION%20%E2%80%A2%20SECURITY%20TOOLING%20%E2%80%A2%20PHANIX&descAlignY=62&descSize=14&descColor=00E5FF"/>
+<!-- RETRO MAINFRAME CASSETTE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,80:21262d,100:0d1117&stroke=39d353&strokeWidth=2&height=210&section=header&text=%E2%96%92%E2%96%92%20PHANEENDHAR%20NITTALA%20%E2%96%92%E2%96%92&fontSize=40&fontColor=39D353&animation=fadeIn&fontAlignY=42&desc=%3C%20RETRO%20TERMINAL%20v2.4%20%7C%20FORENSICS%20%E2%80%A2%20CYBER%20INVESTIGATION%20%E2%80%A2%20PHANIX%20%3E&descAlignY=68&descSize=13&descColor=7EE787"/>
 
-<br>
+<br><br>
 
-<!-- PHANIX OFFICIAL BRAND ICON WITH GLOW -->
+<!-- PHANIX OFFICIAL BRAND ICON -->
 <a href="https://github.com/NPhaneendhar">
-  <img src="assets/phanix-icon.png" width="135" alt="PHANIX Official Icon" />
+  <img src="assets/phanix-icon.png" width="120" alt="PHANIX Brand Emblem" />
 </a>
 
 <br><br>
 
-<!-- DYNAMIC TYPING TERMINAL -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code,JetBrains+Mono,monospace&weight=700&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=860&lines=%E2%9A%A1+Digital+Forensics+%E2%80%A2+Cyber+Investigation;%F0%9F%94%90+Evidence+Integrity+%E2%80%A2+SHA-256+Verification;%F0%9F%90%A7+Arch+Linux+%E2%80%A2+Low-Level+Bash+%E2%80%A2+Python+Tooling;%F0%9F%A7%A0+Architecting+PHANIX+Investigation+Station;%F0%9F%94%8E+%22Every+file+tells+a+story.+Every+byte+matters.%22" />
+<!-- RETRO CRT MONOSPACE TYPEWRITER -->
+<img src="https://readme-typing-svg.demolab.com?font=VT323,Courier+Prime,monospace&weight=700&size=24&duration=2400&pause=1000&color=39D353&center=true&vCenter=true&width=840&lines=%3E+SYS_INIT%3A+Arch+Linux+64-bit+Kernel+Online...;%3E+FORENSIC_CORE%3A+Cryptographic+Integrity+%26+SHA-256;%3E+DOSSIER%3A+Investigating+Digital+Evidence+%26+Artifacts;%3E+ARCHITECTURE%3A+Building+the+PHANIX+Investigation+Suite;%3E+%22Every+file+tells+a+story.+Every+byte+can+matter.%22" />
 
 <br><br>
 
-<!-- LIVE INTERACTIVE / QUICK NAVIGATION HUBS -->
+<!-- RETRO TERMINAL CONTROL PANELS / BADGES -->
 <p>
-  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00E5FF?style=for-the-badge&logo=safari&logoColor=000000&labelColor=090D16"/></a>
-  <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT"><img src="https://img.shields.io/badge/📱_PHANIX_QR_ARCHITECT-00E5FF?style=for-the-badge&logo=qrcode&logoColor=000000&labelColor=090D16"/></a>
-  <a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app"><img src="https://img.shields.io/badge/🕵️_INVESTIGATION_EXPERT-00E5FF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=090D16"/></a>
+  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/%5B%20PORTFOLIO%20%5D-39D353?style=for-the-badge&logo=safari&logoColor=0D1117&labelColor=161B22"/></a>
+  <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT"><img src="https://img.shields.io/badge/%5B%20PHANIX%20QR%20%5D-39D353?style=for-the-badge&logo=qrcode&logoColor=0D1117&labelColor=161B22"/></a>
+  <a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app"><img src="https://img.shields.io/badge/%5B%20INVESTIGATION%20EXPERT%20%5D-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=161B22"/></a>
 </p>
 <p>
-  <a href="https://p-h-a-n-i-x-python-learn.vercel.app"><img src="https://img.shields.io/badge/🐍_PYTHON_LEARN_HUB-00E5FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=090D16"/></a>
-  <a href="https://nittala-forensic-suite.vercel.app"><img src="https://img.shields.io/badge/🛡️_FORENSIC_SUITE-00E5FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=090D16"/></a>
-  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=090D16"/></a>
-  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/✉️_SECURE_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=090D16"/></a>
+  <a href="https://p-h-a-n-i-x-python-learn.vercel.app"><img src="https://img.shields.io/badge/%5B%20PYTHON%20LEARN%20%5D-39D353?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=161B22"/></a>
+  <a href="https://nittala-forensic-suite.vercel.app"><img src="https://img.shields.io/badge/%5B%20FORENSIC%20SUITE%20%5D-39D353?style=for-the-badge&logo=shield&logoColor=0D1117&labelColor=161B22"/></a>
+  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/%5B%20LINKEDIN%20%5D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"/></a>
+  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/%5B%20DISPATCH%20MAIL%20%5D-D93025?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22"/></a>
 </p>
 
-<!-- REAL-TIME TELEMETRY / COUNTERS -->
+<!-- RETRO TELEMETRY METERS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=TERMINAL%20VISITORS&color=00E5FF&labelColor=090D16"/>
+  <img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=TERMINAL%20CALLS&color=39D353&labelColor=161B22"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/NPhaneendhar?style=flat-square&color=00E5FF&labelColor=090D16"/>
+  <img src="https://img.shields.io/github/followers/NPhaneendhar?style=flat-square&color=39D353&labelColor=161B22"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%2F%20INVESTIGATING-00FF66?style=flat-square&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/LINK-ESTABLISHED-39D353?style=flat-square&labelColor=161B22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ARCH%20STATUS-ONLINE-1793D1?style=flat-square&labelColor=161B22"/>
 </p>
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
+```text
+========================================================================================================
+[SYS_REPORT] RETRO CONSOLE READY // TIME_SYNC: UTC // USER: PHANEENDHAR // MODE: FORENSIC INVESTIGATION
+========================================================================================================
+```
 
 <div align="center">
 
-## 🐧 `OPERATING SYSTEM ENVIRONMENT`
+## 💾 `SYSTEM HOST: ARCH LINUX`
 
 ### *"Windows asked me to restart. Arch asked me to understand."*
 
 <a href="https://archlinux.org/">
-  <img src="assets/arch-user-badge.png" width="170" alt="Arch Linux User Emblem" />
+  <img src="assets/arch-user-badge.png" width="160" alt="Arch Linux User Emblem" />
 </a>
 
 <br><br>
 
 <p>
-  <img src="https://img.shields.io/badge/OS-ARCH_LINUX_x86__64-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF&labelColor=090D16"/>
-  <img src="https://img.shields.io/badge/KERNEL-ROLLING_RELEASE-333333?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=090D16"/>
-  <img src="https://img.shields.io/badge/PKG_MANAGER-PACMAN_%2F_AUR-00E5FF?style=for-the-badge&logo=gnu-bash&logoColor=000000&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/SYSTEM-ARCH_LINUX_x86__64-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/KERNEL-ROLLING_RELEASE-238636?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/PACKAGE_CORE-PACMAN-39D353?style=for-the-badge&logo=gnu-bash&logoColor=0D1117&labelColor=161B22"/>
 </p>
 
 ```bash
-$ sudo pacman -Syu && investigate --target "evidence" --verify sha256 --status ACTIVE
+[root@phanix-station ~]# pacman -Syu --noconfirm forensic-tools sha256-engine python3
+[root@phanix-station ~]# echo "STATUS: ACTIVE // INTEGRITY: DEFENDED"
 ```
 
 </div>
@@ -73,117 +78,112 @@ $ sudo pacman -Syu && investigate --target "evidence" --verify sha256 --status A
 
 <div align="center">
 
-## 📈 `ACTIVITY & CONTRIBUTION TRAIL`
+## 📊 `INVESTIGATOR CONTRIBUTION AUDIT`
 
 <img src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 🧬 `01` — OPERATOR DOSSIER & PROFILE
+```text
++------------------------------------------------------------------------------------------------------+
+| 01 // OPERATOR DOSSIER & PROFILE RECORD                                                              |
++------------------------------------------------------------------------------------------------------+
+```
 
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
 
-<img src="assets/profile-cyber.png" width="95%" style="border-radius: 12px;" alt="Phaneendhar Nittala Cyber Profile" />
+<img src="assets/profile.jpg" width="92%" style="border-radius: 8px; border: 2px solid #39D353;" alt="Phaneendhar Nittala" />
 
 <br><br>
 
-<b><font size="4" color="#00E5FF">PHANEENDHAR NITTALA</font></b>
+<b><font size="4" color="#39D353">PHANEENDHAR NITTALA</font></b>
 <br>
-<sub>Digital Forensics • Cyber Investigation • Tool Architect</sub>
+<sub>Digital Forensics • Cyber Investigation • Tooling Architect</sub>
 
 <br><br>
 
 <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/">
-  <img src="https://img.shields.io/badge/ACCESS_FULL_PORTFOLIO_→-00E5FF?style=for-the-badge&logo=safari&logoColor=000000&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/%5B%20INSPECT%20PORTFOLIO%20%5D-39D353?style=for-the-badge&logo=safari&logoColor=0D1117&labelColor=161B22"/>
 </a>
 
 </td>
 <td width="64%" valign="top">
 
-### 🔎 `SECURE SYSTEM DOSSIER`
+### 📋 `TERMINAL IDENTITY SPECS`
 
 ```text
-╭──────────────────────────────────────────────────────────────────────────╮
-│  OPERATOR    ::  PHANEENDHAR NITTALA                                     │
-│  DOMAIN      ::  DIGITAL FORENSICS • CYBER INVESTIGATION                 │
-│  CORE SYSTEM ::  ARCH LINUX (x86_64) // HARDENED KERNEL                  │
-│  FRAMEWORK   ::  PHANIX INITIATIVE (INVESTIGATION ARCHITECTURE)          │
-│  LANGUAGES   ::  PYTHON • BASH • C • JAVASCRIPT                          │
-│  SPECIALTY   ::  CRYPTOGRAPHIC HASHING • CHAIN OF CUSTODY • METADATA    │
-│  MISSION     ::  ENGINEERING MODERN EVIDENCE & INVESTIGATION TOOLING     │
-│  CLEARANCE   ::  LEVEL 04 // OPERATIONAL                                 │
-╰──────────────────────────────────────────────────────────────────────────╯
++-----------------------------------------------------------------------+
+| OPERATOR     : PHANEENDHAR NITTALA                                    |
+| DOMAIN       : DIGITAL FORENSICS & CYBER INVESTIGATION                |
+| WORKSTATION  : ARCH LINUX (x86_64) // ROLLING KERNEL                  |
+| INITIATIVE   : PHANIX ARCHITECTURE SYSTEM                             |
+| CODE BASES   : PYTHON • BASH • C • JAVASCRIPT / REACT                 |
+| SPECIALTY    : EVIDENCE INTEGRITY • SHA-256 HASHING • CHAIN OF CUSTODY|
+| OBJECTIVE    : ENGINEERING MISSION-CRITICAL INVESTIGATION TOOLS       |
+| CLEARANCE    : ROOT // LEVEL-05 AUDIT VERIFIED                        |
++-----------------------------------------------------------------------+
 ```
 
-### ⚡ `SPECIALIZED DOMAIN FOCUS`
+### ⚡ `CORE CAPABILITIES & FIELDS`
 
-- 🔬 **Digital Evidence Extraction**: Filesystem analysis, forensic artifact recovery & tamper detection
-- 🛡️ **Cyber Defense & OSINT**: Reconnaissance, network packet auditing (Nmap/Wireshark) & threat correlation
-- 🤖 **Forensic Intelligence AI**: Local LLM telemetry (Ollama) & Retrieval-Augmented Generation (RAG)
-- 🐧 **Linux Kernel & Tooling**: Native Arch Linux scripts, automation, and POSIX shell engineering
-- 🔐 **Cryptographic Verification**: Defensible SHA-256 evidence integrity & QR-based optical tracking
+- 🔬 **Digital Forensics**: Filesystem forensics, bit-stream imaging & artifact extraction
+- 🛡️ **Cyber Defense & Recon**: OSINT frameworks, network mapping (`nmap`) & threat mitigation
+- 🤖 **Forensic AI**: Local LLM intelligence (Ollama) & retrieval-augmented generation (RAG)
+- 🐧 **Linux Automation**: Kernel custom builds, Bash pipeline tooling & system inspection
+- 🔐 **Cryptographic Verification**: Defensible SHA-256 evidence integrity & QR-based validation
 
 </td>
 </tr>
 </table>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 🌌 `02` — THE PHANIX ECOSYSTEM
+```text
++------------------------------------------------------------------------------------------------------+
+| 02 // THE PHANIX ECOSYSTEM                                                                           |
++------------------------------------------------------------------------------------------------------+
+```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:090D16,100:000000&stroke=00E5FF&strokeWidth=2&height=95&section=header&text=P.H.A.N.I.X&fontSize=34&fontColor=00E5FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&stroke=39d353&strokeWidth=1.5&height=90&section=header&text=P.H.A.N.I.X&fontSize=32&fontColor=39D353&animation=fadeIn"/>
 
 ### **Phaneendhar's Investigation eXpert**
 
-`FORENSICS` &nbsp;✦&nbsp; `CYBER INTELLIGENCE` &nbsp;✦&nbsp; `AI` &nbsp;✦&nbsp; `AUTOMATION` &nbsp;✦&nbsp; `INTEGRITY`
+`FORENSICS` &nbsp;✦&nbsp; `CYBER AUDIT` &nbsp;✦&nbsp; `AI` &nbsp;✦&nbsp; `INTELLIGENCE` &nbsp;✦&nbsp; `AUTOMATION`
 
-*PHANIX is an advanced unified ecosystem combining digital forensics, cybersecurity tooling, and AI into mission-critical investigation workflows.*
-
-<br>
-
-<img src="assets/project-phanix.png" width="95%" alt="PHANIX Forensic Intelligence Station" />
-
-<br>
-<sub><b>PHANIX INTELLIGENCE STATION</b> — Real-time telemetry, cryptographic verification, biometric security & neural analysis</sub>
+*PHANIX is a comprehensive investigation architecture merging digital forensics, cybersecurity, and intelligent software.*
 
 <br><br>
 
 ```text
-                               ┌───────────────────────────┐
-                               │     PHANIX ECOSYSTEM      │
-                               └─────────────┬─────────────┘
-                                             │
-             ┌───────────────────────────────┼───────────────────────────────┐
-             │                               │                               │
-             ▼                               ▼                               ▼
-       🔬 FORENSICS                    🛡️ CYBER AUDIT                      🤖 AI ENGINE
-             │                               │                               │
-      ┌──────┼──────┐                 ┌──────┼──────┐                 ┌──────┼──────┐
-      ▼      ▼      ▼                 ▼      ▼      ▼                 ▼      ▼      ▼
-    HASH   META  EVIDENCE           OSINT  NMAP  THREAT             RAG  LOCAL-LLM TELEMETRY
-      │      │      │                 │      │      │                 │      │      │
-      └──────┴──────┴─────────────────┼──────┴──────┴─────────────────┴──────┴──────┘
-                                      ▼
-                        DEFENSIBLE FORENSIC TOOLING
+                       +---------------------------------------+
+                       |           PHANIX ECOSYSTEM            |
+                       +-------------------+-------------------+
+                                           |
+           +-------------------------------+-------------------------------+
+           |                               |                               |
+           v                               v                               v
+     [ FORENSICS ]                 [ CYBER DEFENSE ]                 [ AI ENGINES ]
+           |                               |                               |
+     +-----+-----+                   +-----+-----+                   +-----+-----+
+     |     |     |                   |     |     |                   |     |     |
+     v     v     v                   v     v     v                   v     v     v
+   HASH  META EVIDENCE             OSINT  NMAP THREAT              RAG  LOCAL-LLM AUDIT
+     |     |     |                   |     |     |                   |     |     |
+     +-----+-----+-------------------+-----+-----+-------------------+-----+-----+
+                                           |
+                                           v
+                       [ UNIFIED FORENSIC INVESTIGATION LAB ]
 ```
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 🔐 `03` — FLAGSHIP PLATFORM
+```text
++------------------------------------------------------------------------------------------------------+
+| 03 // FLAGSHIP PLATFORM: FORENSIC QR ARCHITECT                                                       |
++------------------------------------------------------------------------------------------------------+
+```
 
 <div align="center">
 
@@ -191,57 +191,55 @@ $ sudo pacman -Syu && investigate --target "evidence" --verify sha256 --status A
 ### **Defensible Evidence Identity • Tamper-Proof Integrity • Instant Optical Verification**
 
 <p>
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/SHA--256-000000?style=for-the-badge&logo=letsencrypt&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/ZXING_ENGINE-00E5FF?style=for-the-badge&logo=qrcode&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/CHAIN_OF_CUSTODY-1D1D1F?style=for-the-badge&logo=security&logoColor=00FF66"/>
+  <img src="https://img.shields.io/badge/FRAMEWORK-REACT-39D353?style=for-the-badge&logo=react&logoColor=0D1117&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/CHECKSUM-SHA--256-39D353?style=for-the-badge&logo=letsencrypt&logoColor=0D1117&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/OPTICAL-ZXING_ENGINE-39D353?style=for-the-badge&logo=qrcode&logoColor=0D1117&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/AUDIT-CHAIN_OF_CUSTODY-238636?style=for-the-badge&logo=security&logoColor=FFFFFF&labelColor=161B22"/>
 </p>
 
 </div>
-
-<br>
 
 <table width="100%">
 <tr>
 <td width="52%" valign="top">
 
-### 🔬 `Mission & Key Capabilities`
+### 🔬 `Mission Profile & System Specs`
 
-Engineered for field forensic investigators and cyber response units requiring instant evidence identity:
+Built for digital forensics field units and courtroom defensibility:
 
-- 🔐 **Instant SHA-256 Hashing**: Cryptographic verification preventing evidence tampering
-- 🧬 **UUID Immutable Records**: Traceable custody IDs generated at seizure
-- 📱 **Optical QR Terminal**: Immediate field scans with hardware or web cameras
-- 👤 **Audited Operator Verification**: Role credentials & badge validation logging
-- 🕒 **Tamper-Evident Registration**: Precise UTC temporal watermarking
-- 🔎 **Dynamic Heuristic Risk Scoring**: Automated artifact anomaly alerts
-- 📋 **Court-Defensible Audit Trail**: Standardized chain-of-custody export
+- 🔐 **Instant SHA-256 Checksum**: Immediate cryptographic calculation of file hashes
+- 🧬 **UUID Custody Tracking**: Unique, immutable serial identification per artifact
+- 📱 **Optical QR Terminal**: Rapid field verification via optical scanners or webcams
+- 👤 **Operator Access Log**: Operator ID, credentials, and verification auditing
+- 🕒 **Tamper-Evident Timestamps**: UTC temporal watermarks embedded in QR packages
+- 🔎 **Risk Analysis Engine**: Heuristic detection of anomalous file alterations
+- 📋 **Chain of Custody Logs**: Exportable evidentiary reports ready for trial
 
 <br>
 
 <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
-  <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_TERMINAL-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/%5B%20LAUNCH%20LIVE%20QR%20SYSTEM%20%5D-39D353?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=161B22"/>
 </a>
 
 </td>
 <td width="48%" align="center" valign="middle">
 
 <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
-  <img src="assets/project-qr.png" width="100%" alt="PHANIX Forensic QR Terminal" />
+  <img src="assets/project-qr.png" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" alt="PHANIX Forensic QR Terminal" />
 </a>
 
 <br>
-<sub><b>FORENSIC TERMINAL HUD</b> — Optical Verification & Cryptographic Checksum Engine</sub>
+<sub><b>TERMINAL HUD</b> — Optical Verification & Cryptographic Checksum Engine</sub>
 
 </td>
 </tr>
 </table>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 🧪 `04` — LIVE PRODUCTION PLATFORMS & LABS
+```text
++------------------------------------------------------------------------------------------------------+
+| 04 // PRODUCTION PLATFORMS & LAB APPLICATIONS                                                        |
++------------------------------------------------------------------------------------------------------+
+```
 
 <table width="100%">
 <tr>
@@ -252,7 +250,7 @@ Engineered for field forensic investigators and cyber response units requiring i
 `React` • `SHA-256` • `ZXing Engine` • `Chain-of-Custody`  
 <br>
 <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
-  <img src="https://img.shields.io/badge/DEPLOYED_APP-OPEN_TERMINAL_→-00E5FF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/%5B%20OPEN%20TERMINAL%20%E2%86%92%20%5D-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=161B22"/>
 </a>
 
 </td>
@@ -260,10 +258,10 @@ Engineered for field forensic investigators and cyber response units requiring i
 
 ### 🕵️ [PHANIX Investigation Expert](https://p-h-a-n-i-x-investigation-e-xpert.vercel.app)
 **Digital Investigation & Forensic Analytics Suite**  
-`Next-Gen Web` • `Forensics` • `OSINT` • `Investigation UX`  
+`Full-Stack` • `Forensics` • `OSINT` • `Investigation UX`  
 <br>
 <a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app">
-  <img src="https://img.shields.io/badge/DEPLOYED_APP-OPEN_SUITE_→-00E5FF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/%5B%20OPEN%20SUITE%20%E2%86%92%20%5D-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=161B22"/>
 </a>
 
 </td>
@@ -276,7 +274,7 @@ Engineered for field forensic investigators and cyber response units requiring i
 `Python 3` • `Interactive Labs` • `Data Analysis` • `Tooling`  
 <br>
 <a href="https://p-h-a-n-i-x-python-learn.vercel.app">
-  <img src="https://img.shields.io/badge/DEPLOYED_APP-START_LEARNING_→-00E5FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/%5B%20START%20LEARNING%20%E2%86%92%20%5D-39D353?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=161B22"/>
 </a>
 
 </td>
@@ -287,82 +285,81 @@ Engineered for field forensic investigators and cyber response units requiring i
 `Hashing` • `Metadata Extraction` • `File Inspection` • `Audit`  
 <br>
 <a href="https://nittala-forensic-suite.vercel.app">
-  <img src="https://img.shields.io/badge/DEPLOYED_APP-LAUNCH_TOOLKIT_→-00E5FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=090D16"/>
+  <img src="https://img.shields.io/badge/%5B%20LAUNCH%20TOOLKIT%20%E2%86%92%20%5D-39D353?style=for-the-badge&logo=shield&logoColor=0D1117&labelColor=161B22"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 📊 `05` — LIVE TELEMETRY & GITHUB METRICS
+```text
++------------------------------------------------------------------------------------------------------+
+| 05 // SYSTEM METRICS & PERFORMANCE TELEMETRY                                                         |
++------------------------------------------------------------------------------------------------------+
+```
 
 <div align="center">
 
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=00E5FF&icon_color=00E5FF&text_color=E0E0E0" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=00E5FF&text_color=E0E0E0" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NPhaneendhar&theme=tokyonight&hide_border=true&background=090D16&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NPhaneendhar&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# ⚙️ `06` — TECHNICAL ARSENAL & SKILLS
+```text
++------------------------------------------------------------------------------------------------------+
+| 06 // TECHNICAL ARSENAL & SKILL MATRIX                                                               |
++------------------------------------------------------------------------------------------------------+
+```
 
 <div align="center">
 
-### 💻 `PROGRAMMING & SCRIPTS`
+### 💻 `PROGRAMMING & SYSTEM SCRIPTING`
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,c,js,html,css&theme=dark"/></a>
+  <img src="https://skillicons.dev/icons?i=python,bash,c,js,html,css&theme=dark"/>
 </p>
 
-### 🛠️ `FRAMEWORKS, LIBS & CLOUD`
+### 🛠️ `FRAMEWORKS, TOOLING & DEV ENVIRONMENT`
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,docker,git,github,vscode&theme=dark"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,docker,git,github,vscode&theme=dark"/>
 </p>
 
-### 🐧 `INVESTIGATION ENVIRONMENT & SYSTEMS`
+### 🐧 `INVESTIGATION OPERATING SYSTEMS`
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,postman&theme=dark"/></a>
+  <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,postman&theme=dark"/>
 </p>
 
 </div>
 
 <br>
 
-<div align="center">
 <table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🔬 `DIGITAL FORENSICS`
-Evidence Analysis • SHA-256 Verification • Metadata Recovery • File Carving • Chain of Custody
+Evidence Recovery • SHA-256 Hashes • Metadata Analysis • Chain of Custody
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🛡️ `CYBER RECON`
-OSINT Frameworks • Nmap Port Scanning • Wireshark Packet Analysis • Threat Correlation
+### 🛡️ `CYBER INTELLIGENCE`
+OSINT Investigations • Nmap Network Auditing • Wireshark Packet Parsing • Threat Analysis
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🤖 `FORENSIC AI`
 Local LLMs (Ollama) • RAG Implementations • Evidence Doc Summarization • Telemetry
@@ -373,107 +370,106 @@ Local LLMs (Ollama) • RAG Implementations • Evidence Doc Summarization • T
 <td align="center">
 
 ### 🐍 `PYTHON ENGINE`
-Automated Forensic Scripts • File Hasher • Binary Parsers • Data Science & Pandas
+Automation Scripts • Crypto Checksum Tools • Binary File Parsing • Pandas
 
 </td>
 <td align="center">
 
 ### 🐧 `ARCH LINUX & POSIX`
-Hardened System Shell • Custom Automations • Kernel Tracing • Process Forensics
+Hardened System Kernel • Bash Pipeline Automation • Kernel Auditing • Low-level Debugging
 
 </td>
 <td align="center">
 
-### 🌐 `DEFENSIVE UX / WEB`
-Cyber-Themed HUDs • Real-time Cameras • Clean Reactive Dashboards • Defensible Reports
+### 🌐 `DEFENSIVE UI / UX`
+Retro Terminal Consoles • Real-time Webcam Scanners • Defensible Court Reporting
 
 </td>
 </tr>
 </table>
-</div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 🎮 `07` — INTERACTIVE EVIDENCE WORKSTATION
+```text
++------------------------------------------------------------------------------------------------------+
+| 07 // INTERACTIVE INVESTIGATOR WORKSTATION (CLICK TO EXPAND CONSOLES)                                 |
++------------------------------------------------------------------------------------------------------+
+```
 
 <div align="center">
 
-### 🕹️ *Click any module below to inspect operational parameters*
+### 🕹️ *Select an interactive module below to reveal live console data*
 
 </div>
 
 <details>
-<summary><b>🔍 [CLICK TO EXPAND] FORENSIC CHAIN-OF-CUSTODY CHEAT SHEET</b></summary>
+<summary><b>▶ [CONSOLE 01] FORENSIC CHAIN-OF-CUSTODY AUDIT PROTOCOL</b></summary>
 <br>
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 1. IDENTIFY    : Target compromised device / storage medium                │
-│ 2. ISOLATE     : Enable Faraday shielding / network detachment              │
-│ 3. ACQUIRE     : Bit-stream image capture (raw dd / E01)                    │
-│ 4. PRESERVE    : SHA-256 / SHA-512 cryptographic fingerprinting             │
-│ 5. VERIFY      : Compare original image hash with master ledger             │
-│ 6. ANALYZE     : Non-destructive read-only forensic inspection              │
-│ 7. REPORT      : Defensible courtroom-grade documentation & timeline        │
-└─────────────────────────────────────────────────────────────────────────────┘
++=============================================================================+
+| STAGE 1 : IDENTIFY   | Pinpoint target disk / physical / virtual media       |
+| STAGE 2 : ISOLATE    | Hardware write-blocker + Faraday RF isolation         |
+| STAGE 3 : ACQUIRE    | Bit-stream forensic clone (.dd / .raw / .E01)         |
+| STAGE 4 : HASH       | Cryptographic SHA-256 fingerprint generated           |
+| STAGE 5 : VERIFY     | Bit-for-bit duplicate verification with source        |
+| STAGE 6 : ANALYZE    | Read-only timeline, metadata, and artifact extraction  |
+| STAGE 7 : REPORT     | Defensible courtroom-grade evidentiary export         |
++=============================================================================+
 ```
 
 </details>
 
 <details>
-<summary><b>🐧 [CLICK TO EXPAND] ARCH LINUX INVESTIGATOR TERMINAL SHORTCUTS</b></summary>
+<summary><b>▶ [CONSOLE 02] ARCH LINUX INVESTIGATOR TERMINAL COMMANDS</b></summary>
 <br>
 
 ```bash
-# Hash any evidentiary file with SHA-256:
-sha256sum evidence.img > evidence.sha256
+# Calculate SHA-256 forensic checksum:
+$ sha256sum evidence_drive.raw > checksum.sha256
 
-# Read complete file metadata:
-stat evidence.raw && file -i evidence.raw
+# Verify integrity against stored hash:
+$ sha256sum -c checksum.sha256
 
-# Extract printable strings from suspicious binary:
-strings -a -n 8 suspicious.bin | grep -iE 'http|admin|password|token'
+# Extract printable strings from suspicious binaries:
+$ strings -a -n 8 suspicious.bin | grep -iE 'http|pass|token|admin|ssh'
 
-# Quick network scan for active hosts in subnet:
-sudo nmap -sn 192.168.1.0/24 -oG - | awk '/Up$/{print $2}'
+# Forensic file inspection and metadata dump:
+$ stat evidence_file.bin && file -k evidence_file.bin
 ```
 
 </details>
 
 <details>
-<summary><b>📡 [CLICK TO EXPAND] ACTIVE RESEARCH & RESEARCH ROADMAP</b></summary>
+<summary><b>▶ [CONSOLE 03] ACTIVE RESEARCH & MISSION ROADMAP</b></summary>
 <br>
 
-- 🧠 **RAG on Forensic Case Logs**: Querying 500+ page police incident reports using Ollama and Milvus
-- 🔬 **Optical Forensic Seals**: Micro-matrix QR tags with signed asymmetric keys (ECDSA)
-- 🛰️ **Cross-Platform Memory Dumper**: Memory capture utility written in C & Python
-- ⚡ **Auto-OSINT Aggregator**: Graph-based node relationship crawler for threat actors
+- 🧠 **RAG-Powered Forensic Analysis**: Natural language interrogation of 1000+ page police case files with local LLMs
+- 🔬 **Cryptographic Evidence QR**: Embedding signed ECDSA verification tags into physical forensic seals
+- 🛰️ **Cross-Platform Volatile Memory Dumper**: Memory capture utility written in C & Python
+- ⚡ **Automated OSINT Aggregator**: Correlating threat actor aliases across intelligence feeds
 
 </details>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 🔎 `08` — INVESTIGATION METHODOLOGY
+```text
++------------------------------------------------------------------------------------------------------+
+| 08 // INVESTIGATION METHODOLOGY                                                                      |
++------------------------------------------------------------------------------------------------------+
+```
 
 <div align="center">
 
 ```text
-QUESTION ──► COLLECT ──► PRESERVE ──► VERIFY ──► ANALYZE ──► CORRELATE ──► DEFENSIBLE REPORT
+[ QUESTION ] ===> [ COLLECT ] ===> [ PRESERVE ] ===> [ VERIFY ] ===> [ ANALYZE ] ===> [ REPORT ]
 ```
 
 ### **"Question everything. Preserve everything. Verify everything."**
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-# 🌠 `09` — PHILOSOPHY & PRINCIPLE
+```text
++------------------------------------------------------------------------------------------------------+
+| 09 // PHILOSOPHY & PRINCIPLES                                                                        |
++------------------------------------------------------------------------------------------------------+
+```
 
 <div align="center">
 
@@ -485,7 +481,7 @@ QUESTION ──► COLLECT ──► PRESERVE ──► VERIFY ──► ANALYZE
 
 <br>
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:090D16,100:000000&stroke=00E5FF&strokeWidth=1&height=90&text=EVERY%20BYTE%20CAN%20MATTER&fontSize=24&fontColor=00E5FF"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&stroke=39d353&strokeWidth=1&height=85&text=EVERY%20BYTE%20CAN%20MATTER&fontSize=22&fontColor=39D353"/>
 
 ### **Every file tells a story. Every log leaves a trace. Every byte can matter.**
 
@@ -494,18 +490,16 @@ QUESTION ──► COLLECT ──► PRESERVE ──► VERIFY ──► ANALYZE
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:00e5ff,100:090d16&height=160&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&stroke=39d353&strokeWidth=1.5&height=120&section=footer"/>
 
 <br>
 
 <!-- FOOTER LOGO -->
 <a href="https://github.com/NPhaneendhar">
-  <img src="assets/phanix-icon.png" width="90" alt="PHANIX Icon" />
+  <img src="assets/phanix-icon.png" width="80" alt="PHANIX Icon" />
 </a>
 
 # `PHANIX`
@@ -513,16 +507,16 @@ QUESTION ──► COLLECT ──► PRESERVE ──► VERIFY ──► ANALYZE
 ### **Built with curiosity. Driven by evidence. Engineered with purpose.**
 
 <p>
-  <a href="https://github.com/NPhaneendhar"><img src="https://img.shields.io/badge/GITHUB-NPhaneendhar-00E5FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=090D16"/></a>
-  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-VISIT-00E5FF?style=for-the-badge&logo=safari&logoColor=000000&labelColor=090D16"/></a>
-  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=090D16"/></a>
-  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-PING-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=090D16"/></a>
+  <a href="https://github.com/NPhaneendhar"><img src="https://img.shields.io/badge/GITHUB-NPhaneendhar-39D353?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=161B22"/></a>
+  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-INSPECT-39D353?style=for-the-badge&logo=safari&logoColor=0D1117&labelColor=161B22"/></a>
+  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/LINKEDIN-NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"/></a>
+  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/DISPATCH-CONNECT-D93025?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=VISITORS&color=00E5FF&labelColor=090D16"/>
+<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=VISITORS&color=39D353&labelColor=161B22"/>
 
 <br><br>
 
-`© PHANEENDHAR NITTALA • ARCH LINUX • PHANIX FORENSIC LABS`
+`[ SYS_HALT ] © PHANEENDHAR NITTALA // ARCH LINUX // PHANIX FORENSIC LABS`
 
 </div>
