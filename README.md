@@ -1,119 +1,135 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,25:0b0b0f,55:21183d,80:51308a,100:090909&height=250&section=header&text=PHANEENDHAR%20NITTALA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DIGITAL%20FORENSICS%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20FORENSIC%20AI&descAlignY=60&descSize=16&descColor=D8D0E8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,20:17003B,45:4B0082,70:7B2CBF,100:00B4D8&height=280&section=header&text=PHANEENDHAR%20NITTALA&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=DIGITAL%20FORENSICS%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20PYTHON%20%E2%80%A2%20FORENSIC%20AI&descAlignY=60&descSize=16&descColor=E8E0FF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Digital+Forensics+%E2%80%A2+Cyber+Investigation;Python+%E2%80%A2+Linux+%E2%80%A2+Forensic+Tooling;Building+PHANIX;Evidence+%E2%80%A2+Integrity+%E2%80%A2+Intelligence;Turning+Curiosity+Into+Investigation+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Digital+Forensics+%E2%9C%A6+Cyber+Investigation;Python+%E2%9C%A6+Linux+%E2%9C%A6+Forensic+Tooling;Building+PHANIX;Evidence+%E2%9C%A6+Integrity+%E2%9C%A6+Intelligence;Turning+Curiosity+Into+Investigation+Technology" />
 
-<br>
+<br><br>
 
 <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/">
-<img src="https://img.shields.io/badge/◈%20PORTFOLIO-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=6A3093"/>
+<img src="https://img.shields.io/badge/◈%20PORTFOLIO-0B0614?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&color=7B2CBF"/>
 </a>
 
 <a href="https://p-h-a-n-i-x--forensic-qr-architect.vercel.app/">
-<img src="https://img.shields.io/badge/◉%20PHANIX-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=6A3093"/>
+<img src="https://img.shields.io/badge/◉%20PHANIX-0B0614?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=00B4D8"/>
 </a>
 
 <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/">
-<img src="https://img.shields.io/badge/IN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=6A3093"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B0614?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=4B0082"/>
 </a>
 
 <a href="mailto:nittalaphaneendhar@gmail.com">
-<img src="https://img.shields.io/badge/✉%20CONTACT-0B0B0F?style=for-the-badge&color=6A3093"/>
+<img src="https://img.shields.io/badge/CONTACT-0B0614?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=7B2CBF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=for-the-badge&label=VISITORS&color=6A3093&labelColor=0B0B0F"/>
+<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=for-the-badge&label=PROFILE%20VIEWS&color=00B4D8&labelColor=0B0614"/>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### `THE INVESTIGATION STARTS HERE`
+## 🐧 `A LITTLE ABOUT MY OPERATING SYSTEM`
+
+### **“Windows asked me to restart. Arch asked me to understand.”**
 
 <br>
 
-> **I don't just write code.**
->
-> **I build tools that help make sense of digital evidence.**
+<img src="https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF"/>
+
+ 
+
+<img src="https://img.shields.io/badge/BUILT%20FROM%20THE%20GROUND%20UP-7B2CBF?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+
+<br><br>
+
+`sudo pacman -Syu`   •   `build`   •   `break`   •   `investigate`   •   `fix`
 
 </div>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:6A3093,100:0B0B0F&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,30:7B2CBF,60:FF4ECD,100:00B4D8&height=4"/>
 
-### 🐍 CONTRIBUTION TRAIL
+## 🐍 CONTRIBUTION TRAIL
 
 <img src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:6A3093,100:0B0B0F&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,30:7B2CBF,60:FF4ECD,100:00B4D8&height=4"/>
 
 </div>
 
 <br>
 
-# ◈ `01` — IDENTITY
+# 🧬 `01` — WHO IS PHANI?
+
+<div align="center">
+
+### **Forensic Science → Digital Investigation → Software → PHANIX**
+
+<br>
+
+> **I build technology around the way investigators think.**
+
+</div>
+
+<br>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### `WHOAMI`
+### 🔎 `IDENTITY`
 
 ```text
-┌─────────────────────────────────────┐
-│                                     │
-│   PHANEENDHAR NITTALA               │
-│                                     │
-│   Digital Forensics                 │
-│   Cyber Investigations              │
-│   Python Development                │
-│   Forensic Technology               │
-│                                     │
-│   ─────────────────────────────     │
-│                                     │
-│   SYSTEM    → Arch Linux            │
-│   LANGUAGE  → Python                │
-│   DOMAIN    → Digital Evidence      │
-│   BUILD     → PHANIX                │
-│                                     │
-└─────────────────────────────────────┘
+╭──────────────────────────────────────╮
+│                                      │
+│  PHANEENDHAR NITTALA                 │
+│                                      │
+│  Field      Digital Forensics        │
+│  Domain     Cyber Investigations     │
+│  Build      PHANIX                   │
+│  Primary    Python                   │
+│  Systems    Arch Linux               │
+│  Web        React / JavaScript       │
+│  Systems    C / Bash                 │
+│                                      │
+│  STATUS  :: BUILDING                 │
+│                                      │
+╰──────────────────────────────────────╯
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### `CURRENT STATE`
+### ⚡ `CURRENT FOCUS`
 
 ```text
-╭─────────────────────────────────────╮
-│                                     │
-│  ◉ DIGITAL FORENSICS                │
-│  ◉ CYBERSECURITY                    │
-│  ◉ PYTHON                           │
-│  ◉ LINUX                            │
-│  ◉ OSINT                            │
-│  ◉ FORENSIC AUTOMATION              │
-│  ◉ WEB DEVELOPMENT                  │
-│  ◉ FORENSIC AI                      │
-│                                     │
-│  STATUS :: BUILDING                 │
-│                                     │
-╰─────────────────────────────────────╯
+🔬  DIGITAL FORENSICS
+🛡️  CYBERSECURITY
+🐍  PYTHON
+🐧  LINUX
+🌐  WEB DEVELOPMENT
+🕵️  OSINT
+🔐  EVIDENCE INTEGRITY
+🤖  FORENSIC AI
+🧠  LOCAL AI / RAG
+⚙️  FORENSIC AUTOMATION
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -121,163 +137,309 @@
 
 ---
 
-# ◈ `02` — THE PHANIX VISION
+# 🌌 `02` — THE PHANIX VISION
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:51308A,100:0B0B0F&height=80&section=header&text=P.H.A.N.I.X&fontSize=32&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,35:7B2CBF,70:FF4ECD,100:4B0082&height=100&section=header&text=P.H.A.N.I.X&fontSize=38&fontColor=FFFFFF&animation=fadeIn"/>
 
 ### **Phaneendhar's Investigation eXpert**
 
-`FORENSICS` · `CYBER` · `AI` · `INTELLIGENCE` · `AUTOMATION`
+`FORENSICS`   ✦   `CYBER`   ✦   `AI`   ✦   `INTELLIGENCE`   ✦   `AUTOMATION`
 
 </div>
 
 <br>
 
-PHANIX is the long-term ecosystem I'm building around **digital investigation technology**.
-
-The idea is simple:
-
-> **Take forensic methodology → combine it with software → make investigation more intelligent, repeatable and accessible.**
-
-<br>
+PHANIX is my long-term ecosystem for combining **digital forensics, cybersecurity, software engineering and AI** into practical investigation technology.
 
 <div align="center">
 
 ```text
-                         ┌──────────────┐
-                         │    PHANIX    │
-                         └───────┬──────┘
+                         ┌───────────────┐
+                         │    PHANIX     │
+                         └───────┬───────┘
                                  │
               ┌──────────────────┼──────────────────┐
               │                  │                  │
               ▼                  ▼                  ▼
-        DIGITAL FORENSICS   CYBERSECURITY      FORENSIC AI
+        🔬 FORENSICS        🛡️ CYBER            🤖 AI
               │                  │                  │
-        ┌─────┼─────┐       ┌────┼────┐       ┌────┼────┐
-        ▼     ▼     ▼       ▼    ▼    ▼       ▼    ▼    ▼
-      HASH  META  EVIDENCE  OSINT NMAP THREAT  RAG LOCAL ANALYSIS
+       ┌──────┼──────┐    ┌──────┼──────┐    ┌─────┼─────┐
+       ▼      ▼      ▼    ▼      ▼      ▼    ▼     ▼     ▼
+     HASH   META  EVIDENCE OSINT  NMAP  THREAT RAG  LOCAL ANALYSIS
               │                  │                  │
               └──────────────────┼──────────────────┘
                                  ▼
-                       INVESTIGATION TOOLS
+                         FORENSIC TOOLING
 ```
 
 </div>
 
 ---
 
-# ◈ `03` — FLAGSHIP PROJECT
+# 🔐 `03` — FLAGSHIP PROJECT
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-## 🔐 PHANIX
+## `PHANIX — FORENSIC QR ARCHITECT`
 
-### `FORENSIC QR ARCHITECT`
-
-A chain-of-custody concept designed around **evidence identity, integrity and verification**.
-
-```text
-EVIDENCE
-   ↓
-IDENTIFY
-   ↓
-HASH
-   ↓
-GENERATE QR
-   ↓
-VERIFY
-   ↓
-ANALYZE
-   ↓
-REPORT
-```
-
-### Core
-
-* SHA-256 integrity verification
-* UUID-based evidence identity
-* QR evidence architecture
-* Camera / image scanning
-* Operator identification
-* Badge / role tracking
-* Timestamp generation
-* Evidence risk analysis
-* Chain-of-custody workflow
-
-</td>
-
-<td width="40%" align="center" valign="middle">
+### **Evidence Identity • Integrity • Verification**
 
 <br>
 
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/SHA--256-7B2CBF?style=for-the-badge&logo=letsencrypt&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/QR%20VERIFICATION-00B4D8?style=for-the-badge&logo=qrcode&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FORENSICS-FF4ECD?style=for-the-badge&logo=security&logoColor=FFFFFF"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+### 🔬 What it does
+
+A forensic chain-of-custody concept focused on **evidence identity, integrity and verification**.
+
+* 🔐 SHA-256 evidence hashing
+* 🧬 UUID-based evidence identity
+* 📱 QR-based verification
+* 📷 Camera / image scanning
+* 👤 Operator identification
+* 🪪 Badge / role tracking
+* 🕒 Timestamp generation
+* 🔎 Evidence risk analysis
+* 📋 Chain-of-custody workflow
+
+</td>
+
+<td width="45%" align="center">
+
 ```text
-       ┌─────────────┐
-       │             │
-       │   PHANIX    │
-       │             │
-       │     QR      │
-       │             │
-       │  FORENSIC   │
-       │             │
-       └─────────────┘
-             │
-             ▼
-       SHA-256
-             │
-             ▼
-       VERIFIED ✓
+       ┌───────────────┐
+       │               │
+       │    PHANIX     │
+       │               │
+       │      QR       │
+       │               │
+       │   FORENSIC    │
+       │               │
+       └───────┬───────┘
+               │
+               ▼
+          SHA-256
+               │
+               ▼
+        ┌────────────┐
+        │ VERIFIED ✓ │
+        └────────────┘
 ```
 
 <br>
 
 <a href="https://p-h-a-n-i-x--forensic-qr-architect.vercel.app/">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PHANIX-6A3093?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PHANIX-7B2CBF?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# ◈ `04` — FORENSIC TOOLBOX
+# 🧰 `04` — THINGS I BUILD
 
 <div align="center">
 
-| 🔐 **INTEGRITY** |  🔬 **EVIDENCE**  | 🕵️ **INTELLIGENCE** | 🤖 **AUTOMATION** |
-| :--------------: | :---------------: | :------------------: | :---------------: |
-|        MD5       |      Metadata     |         OSINT        |       Python      |
-|       SHA-1      |   File Analysis   |         Nmap         |        Bash       |
-|      SHA-256     |  Chain of Custody |      Networking      |        APIs       |
-|   File Hashing   | Evidence Tracking |    Threat Hunting    |         AI        |
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+## 🔬
+
+### DIGITAL FORENSICS
+
+Evidence analysis
+Hash verification
+Metadata
+File investigation
+Chain of custody
+
+</td>
+
+<td align="center" width="33%">
+
+## 🛡️
+
+### CYBERSECURITY
+
+OSINT
+Networking
+Nmap
+Threat hunting
+Cyber intelligence
+
+</td>
+
+<td align="center" width="33%">
+
+## 🤖
+
+### FORENSIC AI
+
+Local AI
+RAG
+Ollama
+Document intelligence
+Investigation automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+## 🐍
+
+### PYTHON
+
+Forensic scripts
+Automation
+Hashing
+Data analysis
+Tool development
+
+</td>
+
+<td align="center">
+
+## 🐧
+
+### LINUX
+
+Arch Linux
+Bash
+System tooling
+Development
+Automation
+
+</td>
+
+<td align="center">
+
+## 🌐
+
+### WEB
+
+React
+JavaScript
+HTML
+CSS
+Forensic interfaces
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# ◈ `05` — TECHNOLOGY
+# 🧪 `05` — PROJECT LAB
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔐 PHANIX Forensic QR Architect
+
+**Evidence identity & integrity**
+
+`React` · `SHA-256` · `QR` · `ZXing`
+
+<a href="https://p-h-a-n-i-x--forensic-qr-architect.vercel.app/">
+
+**→ Explore Project**
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔬 PHANIX Forensic Suite
+
+**Digital forensic utilities**
+
+`Python` · `Web` · `Hashing` · `Metadata`
+
+**→ Investigation Toolkit**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 PHANIX Offline Forensic AI
+
+**Local AI for investigation workflows**
+
+`Python` · `Ollama` · `RAG`
+
+**→ Local Intelligence**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🕵️ Investigation Tools
+
+**OSINT & forensic utilities**
+
+`Python` · `Linux` · `Networking`
+
+**→ Research & Automation**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚙️ `06` — TECHNOLOGY
 
 <div align="center">
 
-### `LANGUAGES`
+### 💻 LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash&theme=dark"/>
 
 <br><br>
 
-### `WEB & DEVELOPMENT`
+### 🌐 DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,vite,git,github,vscode&theme=dark"/>
 
 <br><br>
 
-### `SYSTEMS`
+### 🐧 SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=linux,arch,docker&theme=dark"/>
 
@@ -285,84 +447,67 @@ REPORT
 
 ---
 
-# ◈ `06` — WHAT I'M LEARNING
-
-```text
-                    ┌───────────────────────┐
-                    │     LEARNING LOOP     │
-                    └───────────┬───────────┘
-                                │
-           ┌────────────────────┼────────────────────┐
-           ▼                    ▼                    ▼
-       FORENSICS             CYBER                CODE
-           │                    │                    │
-       File Systems          Networking            Python
-       Mobile Forensics      Nmap                  C
-       Metadata              OSINT                 JavaScript
-       Evidence              ATT&CK                React
-           │                    │                    │
-           └────────────────────┼────────────────────┘
-                                ▼
-                            FORENSIC AI
-                                │
-                        ┌───────┼───────┐
-                        ▼       ▼       ▼
-                       RAG    Ollama   Automation
-```
-
----
-
-# ◈ `07` — PROJECT ARCHIVE
-
-| `PROJECT`                           | `WHAT IT DOES`                   | `TECHNOLOGY`          |
-| :---------------------------------- | :------------------------------- | :-------------------- |
-| 🔐 **PHANIX Forensic QR Architect** | Evidence identity & verification | React · SHA-256 · QR  |
-| 🔬 **PHANIX Forensic Suite**        | Digital forensic utilities       | Python · Web          |
-| 🤖 **PHANIX Offline Forensic AI**   | Local forensic AI assistant      | Python · Ollama · RAG |
-| 🔑 **Hash Investigation Tools**     | File integrity analysis          | Python · hashlib      |
-| 📊 **Metadata Analyzer**            | Artifact inspection              | Python                |
-| 🌐 **Forensic Web Tools**           | Browser investigation utilities  | JS · HTML · CSS       |
-| 🐧 **Linux Automation**             | System & investigation workflows | Bash · Linux          |
-
----
-
-# ◈ `08` — INVESTIGATION MINDSET
+# 🧠 `07` — CURRENTLY EXPLORING
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/DIGITAL%20FORENSICS-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSINT-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/THREAT%20HUNTING-FF4ECD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORKING-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LOCAL%20AI-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX-1793D1?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+
+</div>
+
+---
+
+# 🔎 `08` — THE INVESTIGATION
+
+<div align="center">
+
+### Every project starts with a question.
+
+<br>
+
 ```text
-       ┌──────────┐
-       │ QUESTION │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ COLLECT  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ PRESERVE │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  VERIFY  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ ANALYZE  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ CORRELATE│
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  REPORT  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ EVIDENCE │
-       └──────────┘
+             ┌───────────────┐
+             │   QUESTION    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    COLLECT    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │   PRESERVE    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    VERIFY     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    ANALYZE    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │   CORRELATE   │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    REPORT     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │   EVIDENCE    │
+             └───────────────┘
 ```
+
+<br>
 
 ### **Question everything. Preserve everything. Verify everything.**
 
@@ -370,53 +515,31 @@ REPORT
 
 ---
 
-# ◈ `09` — GITHUB SIGNAL
+# 🌠 `09` — WHY I BUILD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050505&title_color=FFFFFF&text_color=B8B8B8&icon_color=8D63D8&rank_icon=github"/>
+> **Forensic science taught me to look at evidence.**
+>
+> **Programming taught me to build the tools.**
+>
+> **Cybersecurity taught me to think about the attack.**
+>
+> **AI showed me new ways to connect the pieces.**
+>
+> **PHANIX is where they meet.**
+
+</div>
+
+---
+
+# 🖤 `10` — THE PRINCIPLE
+
+<div align="center">
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,25:4B0082,50:7B2CBF,75:00B4D8,100:050014&height=100&text=EVERY%20BYTE%20CAN%20MATTER&fontSize=27&fontColor=FFFFFF"/>
 
 <br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NPhaneendhar&hide_border=true&background=050505&ring=6A3093&fire=9B6BFF&currStreakLabel=FFFFFF&sideLabels=B8B8B8&dates=666666"/>
-
-</div>
-
----
-
-# ◈ `10` — THE HUMAN BEHIND THE CODE
-
-I started with **Forensic Science**.
-
-Then I discovered the digital side of investigation.
-
-That changed the direction.
-
-Now I'm exploring what happens when:
-
-**forensic thinking + programming + cybersecurity + AI**
-
-become one discipline.
-
-I'm not trying to build another collection of random tools.
-
-I'm building toward something with a name:
-
-<div align="center">
-
-# `PHANIX`
-
-### **Investigation Technology.**
-
-</div>
-
----
-
-# ◈ `11` — PRINCIPLE
-
-<div align="center">
-
-<br>
 
 ### **Every file tells a story.**
 
@@ -426,9 +549,37 @@ I'm building toward something with a name:
 
 <br>
 
-`INVESTIGATE`   `VERIFY`   `BUILD`
+`INVESTIGATE`   ✦   `VERIFY`   ✦   `BUILD`
+
+</div>
+
+---
+
+# 🌌 `11` — BEYOND THE CODE
+
+<div align="center">
+
+### I'm not trying to build random tools.
+
+### I'm building toward an ecosystem.
 
 <br>
+
+```text
+FORENSIC SCIENCE
+       ↓
+DIGITAL EVIDENCE
+       ↓
+CYBER INVESTIGATION
+       ↓
+FORENSIC SOFTWARE
+       ↓
+FORENSIC AI
+       ↓
+     PHANIX
+       ↓
+INVESTIGATION TECHNOLOGY
+```
 
 </div>
 
@@ -436,27 +587,33 @@ I'm building toward something with a name:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:51308A,30:302060,60:111111,100:030303&height=180&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,25:7B2CBF,50:FF4ECD,75:4B0082,100:050014&height=190&section=footer&animation=twinkling"/>
 
-### `PHANIX`
+# `PHANIX`
 
-**Built with curiosity.
-Driven by evidence.
-Created with purpose.**
+### **Built with curiosity.**
+
+### **Driven by evidence.**
+
+### **Created with purpose.**
 
 <br>
 
 <a href="https://github.com/NPhaneendhar">
-<img src="https://img.shields.io/badge/GITHUB-NPhaneendhar-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF&color=51308A"/>
+<img src="https://img.shields.io/badge/GITHUB-NPhaneendhar-0B0614?style=for-the-badge&logo=github&logoColor=FFFFFF&color=7B2CBF"/>
 </a>
 
 <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0F?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&color=51308A"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0B0614?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&color=00B4D8"/>
 </a>
 
 <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=51308A"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B0614?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=FF4ECD"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=PHANIX%20VISITORS&color=7B2CBF&labelColor=050014"/>
 
 <br><br>
 
