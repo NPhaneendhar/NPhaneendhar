@@ -1,365 +1,291 @@
 <div align="center">
 
 <!-- ===================================================================== -->
-<!-- 00 // RETRO MAINFRAME CASSETTE HEADER & BRAND EMBLEM                  -->
+<!-- 00 // CLASSIFIED FORENSIC DOSSIER HEADER & OPTICAL BARCODE            -->
 <!-- ===================================================================== -->
+
+```ini
+║▌║█║▌│║▌║▌█  DOCKET: PX-8664-IND  //  CLASSIFICATION: SOVEREIGN FORENSIC ARCHITECTURE  //  SEAL: INTACT  ║▌║█║▌│║▌║▌█
+```
+
 <a href="https://github.com/NPhaneendhar">
-  <img width="100%" src="assets/retro-header.svg" alt="PHANEENDHAR NITTALA // RETRO MAINFRAME HUD" />
+  <img src="assets/phanix-icon.png" width="110" alt="PHANIX Sovereign Emblem" />
 </a>
 
-<br><br>
+# `P . H . A . N . I . X`
+### **PHANEENDHAR NITTALA — DIGITAL FORENSICS & CYBER INVESTIGATION ARCHITECT**
 
-<a href="https://github.com/NPhaneendhar">
-  <img src="assets/phanix-icon.png" width="125" alt="PHANIX Brand Emblem" />
-</a>
+<!-- CRIMSON & PLATINUM MONOSPACE TELEMETRY STREAM -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono,Courier+Prime,monospace&weight=700&size=20&duration=2400&pause=1000&color=FF2A54&center=true&vCenter=true&width=860&lines=%5BDOSSIER_ID%3A+PX-001%5D+DIGITAL+FORENSICS+%26+EVIDENCE+INTEGRITY;%5BHOST_KERNEL%5D+ARCH+LINUX+x86_64+%2F%2F+WRITE-BLOCKED+ACQUISITION;%5BCRYPTO_SEAL%5D+SHA-256+BIT-STREAM+VERIFICATION+%26+OPTICAL+QR;%5BDIRECTIVE%5D+%22Every+file+tells+a+story.+Every+byte+can+matter.%22" alt="Forensic Telemetry Stream" />
 
-<br><br>
+<br>
 
-<!-- RETRO CRT MONOSPACE TYPEWRITER -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323,Courier+Prime,monospace&weight=700&size=24&duration=2200&pause=900&color=39D353&center=true&vCenter=true&width=880&lines=%3E+BOOT_SEQ%3A+Arch+Linux+x86_64+Hardened+Kernel+Online...;%3E+FORENSIC_CORE%3A+SHA-256+Cryptographic+Integrity+Locked;%3E+EVIDENCE_BUS%3A+Write-Blocker+Active+%2F%2F+Zero+Bit+Alteration;%3E+ARCHITECTURE%3A+PHANIX+Unified+Cyber+Investigation+Suite;%3E+%22Every+file+tells+a+story.+Every+byte+can+matter.%22" alt="CRT Terminal Stream" />
-
-<br><br>
-
-<!-- RETRO TERMINAL CONTROL PANELS / PRIMARY LAUNCH MATRIX -->
+<!-- TITANIUM & CRIMSON COMMAND MATRIX -->
 <p>
-  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/%E2%96%88%20PORTFOLIO_HUD%20-39D353?style=for-the-badge&logo=safari&logoColor=0D1117&labelColor=161B22"/></a>
-  <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT"><img src="https://img.shields.io/badge/%E2%96%88%20PHANIX_QR_ARCHITECT%20-39D353?style=for-the-badge&logo=qrcode&logoColor=0D1117&labelColor=161B22"/></a>
-  <a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app"><img src="https://img.shields.io/badge/%E2%96%88%20INVESTIGATION_EXPERT%20-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=161B22"/></a>
+  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/01_%2F%2F_INSPECT_PORTFOLIO-FF2A54?style=for-the-badge&logo=safari&logoColor=FFFFFF&labelColor=0A0C10"/></a>
+  <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT"><img src="https://img.shields.io/badge/02_%2F%2F_FORENSIC_QR_ARCHITECT-E2E8F0?style=for-the-badge&logo=qrcode&logoColor=0A0C10&labelColor=0A0C10"/></a>
+  <a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app"><img src="https://img.shields.io/badge/03_%2F%2F_INVESTIGATION_EXPERT-FF2A54?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0A0C10"/></a>
 </p>
 <p>
-  <a href="https://p-h-a-n-i-x-python-learn.vercel.app"><img src="https://img.shields.io/badge/%E2%96%88%20PYTHON_FORENSIC_LAB%20-39D353?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=161B22"/></a>
-  <a href="https://nittala-forensic-suite.vercel.app"><img src="https://img.shields.io/badge/%E2%96%88%20NITTALA_FORENSIC_SUITE%20-39D353?style=for-the-badge&logo=shield&logoColor=0D1117&labelColor=161B22"/></a>
-  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/%E2%96%88%20LINKEDIN_UPLINK%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"/></a>
-  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/%E2%96%88%20DISPATCH_COMMS%20-D93025?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22"/></a>
+  <a href="https://nittala-forensic-suite.vercel.app"><img src="https://img.shields.io/badge/04_%2F%2F_NITTALA_FORENSIC_SUITE-E2E8F0?style=for-the-badge&logo=shield&logoColor=0A0C10&labelColor=0A0C10"/></a>
+  <a href="https://p-h-a-n-i-x-python-learn.vercel.app"><img src="https://img.shields.io/badge/05_%2F%2F_PYTHON_FORENSIC_LAB-E2E8F0?style=for-the-badge&logo=python&logoColor=0A0C10&labelColor=0A0C10"/></a>
+  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/06_%2F%2F_LINKEDIN_DOSSIER-E2E8F0?style=for-the-badge&logo=linkedin&logoColor=0A0C10&labelColor=0A0C10"/></a>
+  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/07_%2F%2F_DIRECT_DISPATCH-FF2A54?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0A0C10"/></a>
 </p>
 
-<!-- LIVE TELEMETRY & KERNEL STATUS COUNTERS -->
+<!-- MICROFICHE TELEMETRY RIBBON -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=TERMINAL%20SESSIONS&color=39D353&labelColor=161B22"/>
+  <img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=AUDIT%20LOGS&color=FF2A54&labelColor=0A0C10"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/NPhaneendhar?style=flat-square&label=NETWORK%20NODES&color=39D353&labelColor=161B22"/>
+  <img src="https://img.shields.io/github/followers/NPhaneendhar?style=flat-square&label=VERIFIED%20PEERS&color=E2E8F0&labelColor=0A0C10"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/WRITE_BLOCKER-ENGAGED-39D353?style=flat-square&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/CUSTODY_SEAL-TAMPER_PROOF-FF2A54?style=flat-square&labelColor=0A0C10"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CHAIN_OF_CUSTODY-VERIFIED-238636?style=flat-square&labelColor=161B22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ARCH_x86__64-ONLINE-1793D1?style=flat-square&labelColor=161B22"/>
+  <img src="https://img.shields.io/badge/WORKSTATION-ARCH_x86__64-E2E8F0?style=flat-square&labelColor=0A0C10"/>
 </p>
 
 </div>
 
-<!-- ===================================================================== -->
-<!-- LIVE MEMORY HEX DUMP & MULTI-COLOR CRT DIAGNOSTIC READOUT             -->
-<!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ [SYS_BOOT] PHANIX FORENSIC MAINFRAME v4.2 // GENESIS MEMORY SECTOR 0x0000 -> 0x003F [MOUNT: RO]     ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-  OFFSET      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F   ASCII_DECODE_STREAM
-  -----------------------------------------------------------------------------------
-+ 0x00000000  50 48 41 4E 49 58 5F 43  4F 52 45 5F 76 34 2E 32   |PHANIX_CORE_v4.2|
-+ 0x00000010  41 52 43 48 5F 4C 49 4E  55 58 5F 78 38 36 36 34   |ARCH_LINUX_x8664|
-+ 0x00000020  53 48 41 32 35 36 3A 3A  56 45 52 49 46 49 45 44   |SHA256::VERIFIED|
-+ 0x00000030  4F 50 3A 50 2E 4E 49 54  54 41 4C 41 2F 2F 30 35   |OP:P.NITTALA//05|
-! [AUDIT_SIG] SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 [TAMPER_LOCK: ON]
-```
-
 ---
 
 <!-- ===================================================================== -->
-<!-- 01 // OPERATOR DOSSIER & ARCH LINUX WORKSTATION TELEMETRY             -->
+<!-- 01 // ASYMMETRIC BENTO-GRID OPERATOR DOSSIER                          -->
 <!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 01 // OPERATOR DOSSIER & HARDENED WORKSTATION SPECS                                  [CLEARANCE: L5] ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 <table width="100%">
-<tr>
-<td width="35%" align="center" valign="middle">
-
-<br>
-<img src="assets/profile.jpg" width="88%" style="border-radius: 8px; border: 2px solid #39D353;" alt="Phaneendhar Nittala" />
-<br><br>
-
-<b><font size="4" color="#39D353">PHANEENDHAR NITTALA</font></b>
-<br>
-<sub><b>Digital Forensics • Cyber Investigation • Tooling Architect</b></sub>
-<br><br>
-
-<img src="https://img.shields.io/badge/ID-PX--OP--001-39D353?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE_DUTY-39D353?style=flat-square&labelColor=0D1117"/>
-
-<br><br>
-
-<a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/">
-  <img src="https://img.shields.io/badge/%5B%20ACCESS_PERSONNEL_DOSSIER%20%5D-39D353?style=for-the-badge&logo=safari&logoColor=0D1117&labelColor=161B22"/>
-</a>
-<br><br>
-
-</td>
-<td width="65%" valign="top">
-
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ root@phanix-station ~ # fastfetch --forensic-mode                 ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-+   OPERATOR      :: Phaneendhar Nittala
-+   DESIGNATION   :: Forensic Tooling Architect & Cyber Investigator
-+   INITIATIVE    :: P.H.A.N.I.X (Phaneendhar's Investigation eXpert)
-+   HOST_OS       :: Arch Linux x86_64 (Rolling Kernel // Hardened)
-+   PKG_MANAGER   :: pacman // custom forensic build pipelines
-+   CORE_STACK    :: Python 3 • Bash • C • JavaScript • React • Vite
-+   CRYPTO_STD    :: SHA-256 • ECDSA • Optical ZXing QR Verification
-+   AI_RUNTIME    :: Local LLM (Ollama) + Evidence RAG Pipelines
-!   DIRECTIVE     :: "Engineering mission-critical investigation tools"
+  <tr>
+    <!-- LEFT TALL BENTO CARD (SPANS 3 ROWS) -->
+    <td width="34%" rowspan="3" align="center" valign="top">
+      <br>
+      <img src="assets/profile.jpg" width="88%" style="border-radius: 4px; border: 2px solid #FF2A54;" alt="Phaneendhar Nittala" />
+      <br><br>
+      <code>║▌║█║▌│║▌║▌█ PX-ID-001 ║▌║█║▌</code>
+      <h3><b>PHANEENDHAR NITTALA</b></h3>
+      <sub><b>FORENSIC SCIENTIST &amp; CYBER TOOLING ARCHITECT</b></sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_05_ROOT-FF2A54?style=flat-square&labelColor=0A0C10"/>
+      <br><br>
+      <div align="left">
+      <blockquote>
+        <b>FILE_REF</b>: <code>NITTALA-P-2026</code><br>
+        <b>DISCIPLINE</b>: Digital Forensics &amp; Incident Response (DFIR)<br>
+        <b>KERNEL</b>: Arch Linux (x86_64)<br>
+        <b>FOCUS</b>: Cryptographic Integrity, Chain-of-Custody &amp; Local AI
+      </blockquote>
+      </div>
+      <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/">
+        <img src="https://img.shields.io/badge/%E2%96%B6_OPEN_FULL_DOSSIER-FF2A54?style=for-the-badge&labelColor=0A0C10"/>
+      </a>
+      <br><br>
+    </td>
+    <!-- TOP-RIGHT WIDE BENTO CARD (SPANS 2 COLUMNS) -->
+    <td width="66%" colspan="2" valign="top">
+      <h4><b><code>[SECTION 01.A]</code> // FORMAL EVIDENTIARY INTEGRITY AXIOM</b></h4>
+      In digital forensics, a single flipped bit compromises an entire investigation. The <b>PHANIX Architecture</b> enforces strict mathematical non-repudiation across every artifact lifecycle:
+      <br><br>
+      $$\mathcal{V}_{\text{PHANIX}}(\mathcal{E}) = \text{SHA256}(\mathcal{E}_{\text{raw}}) \oplus \text{UUID}_{\text{custody}} \implies \text{Admissible} \iff \Delta_{\text{bit}}(\mathcal{E}_t, \mathcal{E}_0) = 0$$
+    </td>
+  </tr>
+  <tr>
+    <!-- MIDDLE-RIGHT SPLIT BENTO CARD 1 -->
+    <td width="33%" valign="top">
+      <h4><b><code>[01.B]</code> // HOST KERNEL</b></h4>
+      <div align="center">
+        <a href="https://archlinux.org/">
+          <img src="assets/arch-user-badge.png" width="95" alt="Arch Linux" />
+        </a>
+      </div>
+      <sub><i>"Windows asked me to restart. Arch asked me to understand."</i></sub>
+      <br><br>
+      <code>• OS     : Arch Linux x86_64</code><br>
+      <code>• MOUNT  : Read-Only Loopback</code><br>
+      <code>• SHELL  : POSIX / Bash / C</code>
+    </td>
+    <!-- MIDDLE-RIGHT SPLIT BENTO CARD 2 -->
+    <td width="33%" valign="top">
+      <h4><b><code>[01.C]</code> // CORE DOMAINS</b></h4>
+      <code>[01]</code> <b>Disk &amp; Memory Forensics</b><br>
+      <sub>Bit-stream cloning &amp; carving</sub><br><br>
+      <code>[02]</code> <b>Cryptographic Custody</b><br>
+      <sub>SHA-256 &amp; Optical QR Seals</sub><br><br>
+      <code>[03]</code> <b>Air-Gapped Forensic AI</b><br>
+      <sub>Local Ollama RAG case engines</sub>
+    </td>
+  </tr>
+  <tr>
+    <!-- BOTTOM-RIGHT WIDE BENTO CARD (SPANS 2 COLUMNS) -->
+    <td width="66%" colspan="2" valign="top">
+      <h4><b><code>[SECTION 01.D]</code> // OPERATIONAL TELEMETRY &amp; SUBSYSTEM CALIBRATION</b></h4>
+```yaml
+EVIDENCE_ACQUISITION_&_HASHING : ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100% [SHA-256 / BIT-STREAM]
+ARCH_LINUX_&_POSIX_AUTOMATION  : ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  95% [KERNEL / BASH / C]
+FORENSIC_WEB_HUD_ENGINEERING   : ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  95% [REACT / ZXING / VITE]
+OSINT_&_NETWORK_RECONNAISSANCE : ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  90% [NMAP / PCAP / TRIAGE]
+LOCAL_LLM_&_CASE_DOSSIER_RAG   : ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  88% [OLLAMA / VECTOR_DB]
 ```
-
-#### ⚡ `SUBSYSTEM CAPABILITY GAUGES`
-
-```text
-FORENSIC ACQUISITION & HASHING   [████████████████████] 100%  :: SHA-256 / Bit-Stream
-LINUX KERNEL & BASH AUTOMATION   [███████████████████░]  95%  :: Arch / POSIX / C
-FULL-STACK INVESTIGATION HUDs    [███████████████████░]  95%  :: React / ZXing / UI
-OSINT & NETWORK RECONNAISSANCE   [██████████████████░░]  90%  :: Nmap / Packet Audit
-LOCAL AI & RAG CASE ANALYTICS    [█████████████████░░░]  88%  :: Ollama / Vector DB
-```
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
-
-<div align="center">
-
-### 💾 `HOST ENVIRONMENT: ARCH LINUX x86_64`
-#### *"Windows asked me to restart. Arch asked me to understand."*
-
-<a href="https://archlinux.org/">
-  <img src="assets/arch-user-badge.png" width="145" alt="Arch Linux User Emblem" />
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/HOST-ARCH_LINUX_x86__64-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/KERNEL-ROLLING_HARDENED-238636?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/SHELL-BASH_PIPELINE-39D353?style=for-the-badge&logo=gnu-bash&logoColor=0D1117&labelColor=161B22"/>
-</p>
-
-</div>
 
 ---
 
 <!-- ===================================================================== -->
-<!-- 02 // THE PHANIX ECOSYSTEM & INTERACTIVE CIRCUIT TOPOLOGY             -->
+<!-- 02 // STATE-MACHINE ARCHITECTURE: ARTIFACT CUSTODY LIFECYCLE          -->
 <!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 02 // THE PHANIX ARCHITECTURE & FORENSIC DATAFLOW TOPOLOGY                           [SYS_MAP: LIVE] ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 <div align="center">
 
-<img width="100%" src="assets/phanix-banner.svg" alt="PHANIX Header Banner" />
-
-### **P.H.A.N.I.X — Phaneendhar's Investigation eXpert**
-`DIGITAL FORENSICS` &nbsp;✦&nbsp; `CRYPTOGRAPHIC INTEGRITY` &nbsp;✦&nbsp; `CYBER RECON` &nbsp;✦&nbsp; `LOCAL AI RAG` &nbsp;✦&nbsp; `POSIX AUTOMATION`
+### `02 // PHANIX EVIDENTIARY STATE-MACHINE TOPOLOGY`
+<sub><b>Real-time cryptographic state transitions from physical seizure to courtroom verification</b></sub>
 
 </div>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#39d353', 'primaryBorderColor': '#39d353', 'lineColor': '#39d353', 'secondaryColor': '#161b22', 'tertiaryColor': '#0d1117', 'fontFamily': 'monospace'}}}%%
-flowchart TD
-    A["[RAW DIGITAL ARTIFACT / MEDIA]"] -->|Hardware Write-Blocker| B("PHANIX ACQUISITION BUS")
-    B --> C{"THREE-PILLAR ENGINE"}
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0A0C10', 'primaryTextColor': '#E2E8F0', 'primaryBorderColor': '#FF2A54', 'lineColor': '#FF2A54', 'secondaryColor': '#12151C', 'tertiaryColor': '#0A0C10', 'fontFamily': 'monospace'}}}%%
+stateDiagram-v2
+    direction LR
+    [*] --> Seized_Artifact
+    Seized_Artifact --> Write_Blocked_Bus : Hardware Isolation
+    Write_Blocked_Bus --> BitStream_Clone : Raw .DD / .E01 Image
     
-    C -->|Pillar 01| D["[DIGITAL FORENSICS]"]
-    C -->|Pillar 02| E["[CYBER INTELLIGENCE]"]
-    C -->|Pillar 03| F["[FORENSIC AI / RAG]"]
+    state "PHANIX CRYPTOGRAPHIC CORE" as CryptoCore {
+        BitStream_Clone --> SHA256_Digest : Compute 256-Bit Hash
+        SHA256_Digest --> UUID_Timestamp : Bind UTC + Operator ID
+        UUID_Timestamp --> Optical_QR_Seal : Encode ZXing Matrix
+    }
     
-    D --> D1["SHA-256 Fingerprinting"]
-    D --> D2["EXIF / Binary Metadata"]
-    D --> D3["Optical QR Custody Seal"]
-    
-    E --> E1["OSINT Entity Correlation"]
-    E --> E2["Nmap / Packet Inspection"]
-    E --> E3["Anomaly & Risk Heuristics"]
-    
-    F --> F1["Ollama Local LLM Node"]
-    F --> F2["Case Dossier Vector RAG"]
-    F --> F3["Automated Timeline Audit"]
-    
-    D1 & D2 & D3 & E1 & E2 & E3 & F1 & F2 & F3 --> G["[COURTROOM-DEFENSIBLE EVIDENTIARY REPORT]"]
+    Optical_QR_Seal --> Field_Scanner_Audit : Optical Webcam Read
+    Field_Scanner_Audit --> Courtroom_Admissible : Parity == 100%
+    Field_Scanner_Audit --> Tamper_Alert_0xFF : Bit Deviation Detected
+    Courtroom_Admissible --> [*]
 ```
 
 ---
 
 <!-- ===================================================================== -->
-<!-- 03 // FLAGSHIP PLATFORM: FORENSIC QR ARCHITECT                        -->
+<!-- 03 // FLAGSHIP DOSSIER: PHANIX FORENSIC QR ARCHITECT                  -->
 <!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 03 // FLAGSHIP SYSTEM: PHANIX FORENSIC QR ARCHITECT                                  [STATUS: PROD]  ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+> [!IMPORTANT]
+> **FLAGSHIP PRODUCTION DEPLOYMENT // `PHANIX FORENSIC QR ARCHITECT`**  
+> Designed for digital forensics field responders and evidence custodians requiring zero-trust client-side hashing and instant optical verification without uploading confidential files to external servers.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b><code>SPECIFICATION SHEET // PX-QR-v4</code></b></h3>
+```yaml
+SYSTEM_NAME : PHANIX Forensic QR Architect
+RUNTIME     : React 18 + Web Crypto SHA-256 Engine
+OPTICAL_CORE: ZXing High-Density Matrix Decoder
+PRIVACY_MODE: 100% Client-Side (Zero Server Upload)
+OUTPUT_SPEC : Courtroom Chain-of-Custody Dossier
 ```
+      <ul>
+        <li><b>Zero-Trust Local Hashing</b>: Computes authentic SHA-256 digests directly in browser memory.</li>
+        <li><b>Immutable Custody UUIDs</b>: Binds investigator credentials, UTC timestamps, and file metadata into an optical seal.</li>
+        <li><b>Live Optical Scanner HUD</b>: Validates physical or digital QR evidence tags via webcam to expose single-bit tampering.</li>
+      </ul>
+      <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
+        <img src="https://img.shields.io/badge/%E2%96%B6_LAUNCH_FORENSIC_QR_ARCHITECT-FF2A54?style=for-the-badge&logo=qrcode&logoColor=FFFFFF&labelColor=0A0C10"/>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
+        <img src="assets/project-qr.png" width="100%" style="border-radius: 4px; border: 1px solid #FF2A54;" alt="PHANIX Forensic QR Terminal" />
+      </a>
+      <br><br>
+      <sub><code>[EXHIBIT A]</code> — Live Optical Verification &amp; Cryptographic Checksum Interface</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===================================================================== -->
+<!-- 04 // SOVEREIGN PRODUCTION NODES (4-CARD BENTO MATRIX)                -->
+<!-- ===================================================================== -->
 
 <div align="center">
 
-## `PHANIX — FORENSIC QR ARCHITECT`
-### **Defensible Evidence Identity • Tamper-Proof Integrity • Instant Optical Verification**
-
-<p>
-  <img src="https://img.shields.io/badge/ENGINE-REACT_18-39D353?style=for-the-badge&logo=react&logoColor=0D1117&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/HASH_CORE-SHA--256-39D353?style=for-the-badge&logo=letsencrypt&logoColor=0D1117&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/OPTICAL-ZXING_DECODER-39D353?style=for-the-badge&logo=qrcode&logoColor=0D1117&labelColor=161B22"/>
-  <img src="https://img.shields.io/badge/COMPLIANCE-CHAIN_OF_CUSTODY-238636?style=for-the-badge&logo=security&logoColor=FFFFFF&labelColor=161B22"/>
-</p>
+### `04 // DEPLOYED INVESTIGATION & EDUCATIONAL PLATFORMS`
 
 </div>
 
 <table width="100%">
-<tr>
-<td width="52%" valign="top">
-
-### 🔬 `Tactical Capabilities & Field Specs`
-
-Engineered for digital forensics field responders, evidence lockers, and courtroom verifiability:
-
-- 🔐 **Zero-Upload SHA-256 Hashing**: Client-side cryptographic digest computation ensures confidential evidence never leaves the local workstation.
-- 🧬 **Immutable UUID Tagging**: Generates unique serial custody identifiers bound to artifact metadata.
-- 📱 **Optical QR Telemetry Seal**: Encodes file hashes, timestamps, and investigator IDs into high-density optical QR manifests.
-- 📷 **Live Webcam & Scanner HUD**: Instant optical re-verification in the field or courtroom to detect single-bit tampering.
-- 🕒 **UTC Temporal Watermarking**: Precision ISO-8601 timestamps locked at acquisition time.
-- 📋 **Trial-Ready Audit Exports**: Generates structured chain-of-custody logs for legal presentation.
-
-<br>
-
-<a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20INITIALIZE_LIVE_QR_TERMINAL-39D353?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=161B22"/>
-</a>
-
-</td>
-<td width="48%" align="center" valign="middle">
-
-<a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
-  <img src="assets/project-qr.png" width="100%" style="border-radius: 6px; border: 1px solid #39D353;" alt="PHANIX Forensic QR Terminal" />
-</a>
-<br><br>
-<code>[HUD_PREVIEW] Optical Checksum & Chain-of-Custody Engine</code>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><b><code>[EXHIBIT 01]</code> // OPTICAL CUSTODY ENGINE</b></h4>
+      <h3><a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">PHANIX Forensic QR Architect</a></h3>
+      <sub><b>`React` • `SHA-256` • `ZXing Optical` • `Chain-of-Custody`</b></sub>
+      <p>Cryptographic evidence identity generator and optical QR verification terminal for tamper-evident artifact sealing.</p>
+      <a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
+        <img src="https://img.shields.io/badge/MOUNT_SYSTEM_%E2%86%92-FF2A54?style=flat-square&labelColor=0A0C10"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><b><code>[EXHIBIT 02]</code> // UNIFIED RECON WORKBENCH</b></h4>
+      <h3><a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app">PHANIX Investigation Expert</a></h3>
+      <sub><b>`Full-Stack JS` • `DFIR Triage` • `OSINT` • `Case UX`</b></sub>
+      <p>Comprehensive digital investigation command deck combining forensic triage workflows, OSINT modules, and case reporting.</p>
+      <a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app">
+        <img src="https://img.shields.io/badge/MOUNT_SYSTEM_%E2%86%92-FF2A54?style=flat-square&labelColor=0A0C10"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><b><code>[EXHIBIT 03]</code> // ARTIFACT TRIAGE TOOLKIT</b></h4>
+      <h3><a href="https://nittala-forensic-suite.vercel.app">Nittala Forensic Suite</a></h3>
+      <sub><b>`Metadata Extraction` • `Binary Signatures` • `Hash Audit`</b></sub>
+      <p>Dedicated forensic inspection laboratory for deep file header validation, EXIF/metadata carving, and integrity verification.</p>
+      <a href="https://nittala-forensic-suite.vercel.app">
+        <img src="https://img.shields.io/badge/MOUNT_SYSTEM_%E2%86%92-E2E8F0?style=flat-square&labelColor=0A0C10"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><b><code>[EXHIBIT 04]</code> // FORENSIC SCRIPTING LAB</b></h4>
+      <h3><a href="https://p-h-a-n-i-x-python-learn.vercel.app">PHANIX Python Learn</a></h3>
+      <sub><b>`Python 3` • `Automation` • `Interactive Labs` • `Parsers`</b></sub>
+      <p>Interactive educational platform engineered to train students and investigators in Python programming and forensic automation.</p>
+      <a href="https://p-h-a-n-i-x-python-learn.vercel.app">
+        <img src="https://img.shields.io/badge/MOUNT_SYSTEM_%E2%86%92-E2E8F0?style=flat-square&labelColor=0A0C10"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
 
 <!-- ===================================================================== -->
-<!-- 04 // DEPLOYED PRODUCTION PLATFORMS & LAB APPLICATIONS                -->
+<!-- 05 // TECHNICAL ARSENAL & HARDWARE/SOFTWARE MATRIX                    -->
 <!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 04 // DEPLOYED PRODUCTION NODES & INTERACTIVE LAB SUITES                             [NODES: 04/04]  ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```diff
-+ [NODE_01] // CRYPTOGRAPHIC CUSTODY TERMINAL
-```
-### 🔐 [PHANIX Forensic QR Architect](https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT)
-**Evidence Identity, Integrity & Optical Verification System**
-- **Architecture**: `React` • `Web Crypto API (SHA-256)` • `ZXing`
-- **Function**: Generates tamper-evident QR custody seals and performs live optical hash verification.
-
-<a href="https://nphaneendhar.github.io/P.H.A.N.I.X-FORENSIC-QR-ARCHITECT">
-  <img src="https://img.shields.io/badge/%5B%20MOUNT_TERMINAL_%E2%86%92%20%5D-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=161B22"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-```diff
-+ [NODE_02] // UNIFIED INVESTIGATION WORKBENCH
-```
-### 🕵️ [PHANIX Investigation Expert](https://p-h-a-n-i-x-investigation-e-xpert.vercel.app)
-**Digital Investigation & Forensic Analytics Suite**
-- **Architecture**: `Full-Stack JS` • `OSINT Modules` • `Forensic UX`
-- **Function**: Centralized command center for artifact triage, recon workflows, and case correlation.
-
-<a href="https://p-h-a-n-i-x-investigation-e-xpert.vercel.app">
-  <img src="https://img.shields.io/badge/%5B%20LAUNCH_WORKBENCH_%E2%86%92%20%5D-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=161B22"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```diff
-+ [NODE_03] // AUTOMATION & SCRIPTING ACADEMY
-```
-### 🐍 [PHANIX Python Learn](https://p-h-a-n-i-x-python-learn.vercel.app)
-**Interactive Python Learning & Forensic Scripting Hub**
-- **Architecture**: `Python 3` • `Interactive Code Labs` • `Data Parsing`
-- **Function**: Hands-on training environment for building forensic parsers, hashers, and automation tools.
-
-<a href="https://p-h-a-n-i-x-python-learn.vercel.app">
-  <img src="https://img.shields.io/badge/%5B%20ENTER_PYTHON_LAB_%E2%86%92%20%5D-39D353?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=161B22"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-```diff
-+ [NODE_04] // DEEP ARTIFACT INSPECTION SUITE
-```
-### 🔬 [Nittala Forensic Suite](https://nittala-forensic-suite.vercel.app)
-**Digital Evidence Analysis & Forensic Verification Toolkit**
-- **Architecture**: `Binary Inspection` • `Metadata Extraction` • `Audit Logs`
-- **Function**: Rapid triage utility for header inspection, cryptographic hashing, and signature validation.
-
-<a href="https://nittala-forensic-suite.vercel.app">
-  <img src="https://img.shields.io/badge/%5B%20OPEN_FORENSIC_SUITE_%E2%86%92%20%5D-39D353?style=for-the-badge&logo=shield&logoColor=0D1117&labelColor=161B22"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================================================================== -->
-<!-- 05 // CONTRIBUTION SNAKE & REAL-TIME GITHUB TELEMETRY                 -->
-<!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 05 // INVESTIGATOR ACTIVITY LOG & COMMIT TELEMETRY                                   [STREAM: SYNC]  ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NPhaneendhar/NPhaneendhar/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake" />
-
-<br><br>
+### `05 // TECHNICAL ARSENAL & FORENSIC TOOLCHAIN`
 
 <table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NPhaneendhar&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4><code>LANGUAGES &amp; KERNEL SCRIPTING</code></h4>
+      <img src="https://skillicons.dev/icons?i=python,c,bash,js,html,css&perline=3&theme=dark" alt="Languages" />
+      <br><br>
+      <sub>Low-Level Bit Manipulation • POSIX Shell Pipelines • Cryptographic Hashing</sub>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h4><code>APPLICATION &amp; UI ARCHITECTURE</code></h4>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,docker,git,github,vscode&perline=4&theme=dark" alt="Frameworks" />
+      <br><br>
+      <sub>High-Contrast Forensic HUDs • Containerized Labs • Automated Deployments</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4><code>OS &amp; INVESTIGATION PLATFORMS</code></h4>
+      <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,postman&perline=2&theme=dark" alt="Operating Systems" />
+      <br><br>
+      <sub>Arch Linux Rolling Kernel • Autopsy • Wireshark • Nmap • Local Ollama LLMs</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -367,141 +293,91 @@ Engineered for digital forensics field responders, evidence lockers, and courtro
 ---
 
 <!-- ===================================================================== -->
-<!-- 06 // TECHNICAL ARSENAL & FORENSIC SKILL MATRIX                       -->
+<!-- 06 // OBSIDIAN & CRIMSON TELEMETRY ANALYTICS                          -->
 <!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 06 // TECHNICAL ARSENAL & OPERATIONAL TOOLCHAIN                                      [MODULES: LOAD] ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 <div align="center">
 
+### `06 // LIVE REPOSITORY TELEMETRY & COMMIT AUDIT`
+
 <table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-#### 💻 `CORE LANGUAGES & SHELL`
-<br>
-<img src="https://skillicons.dev/icons?i=python,bash,c,js,html,css&perline=3&theme=dark" alt="Languages" />
-<br><br>
-<sub>Binary Parsing • Low-Level Memory • POSIX Automation • Web Crypto</sub>
-
-</td>
-<td width="34%" align="center" valign="top">
-
-#### 🛠️ `FRAMEWORKS & INFRASTRUCTURE`
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,docker,git,github,vscode&perline=4&theme=dark" alt="Frameworks" />
-<br><br>
-<sub>Reactive Forensic HUDs • Containerized Labs • CI/CD Pipelines</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-#### 🐧 `OPERATING ENVIRONMENT`
-<br>
-<img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,postman&perline=2&theme=dark" alt="OS" />
-<br><br>
-<sub>Hardened Arch Rolling Kernel • Loopback Mounting • API Auditing</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NPhaneendhar&show_icons=true&theme=dark&hide_border=true&bg_color=0A0C10&title_color=FF2A54&icon_color=FF2A54&text_color=E2E8F0" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPhaneendhar&layout=compact&theme=dark&hide_border=true&bg_color=0A0C10&title_color=FF2A54&text_color=E2E8F0" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NPhaneendhar&theme=dark&hide_border=true&background=0A0C10&ring=FF2A54&fire=FF2A54&currStreakLabel=E2E8F0" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
 </div>
 
-```text
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🔬 DIGITAL FORENSICS         ┃ 🛡️ CYBER INTELLIGENCE        ┃ 🤖 FORENSIC AI & RAG         ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ • Bit-Stream Disk Imaging    ┃ • OSINT Target Profiling     ┃ • Local Ollama LLM Inference ┃
-┃ • SHA-256 / MD5 Verification ┃ • Nmap Surface Discovery     ┃ • Case File Vector RAG       ┃
-┃ • Magic Byte & Hex Carving   ┃ • Wireshark PCAP Triage      ┃ • Automated Evidence Summary ┃
-┃ • Defensible Custody Logs    ┃ • Anomaly & Threat Detection ┃ • Air-Gapped AI Processing   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
 ---
 
 <!-- ===================================================================== -->
-<!-- 07 // INTERACTIVE DECLASSIFIED CONSOLES (CLICK TO MOUNT)              -->
+<!-- 07 // CLASSIFIED CASE DRAWERS (INTERACTIVE EXPANDABLE LOGS)           -->
 <!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 07 // INTERACTIVE DECLASSIFIED CONSOLES (CLICK MODULE TO DECRYPT)                    [ACCESS: ROOT]  ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+
+<div align="center">
+
+### `07 // DECLASSIFIED EVIDENCE DRAWERS (SELECT TO UNSEAL)`
+
+</div>
 
 <details open>
-<summary><b>🟢 [CONSOLE 01] // LIVE EVIDENCE LOCKER & CHAIN-OF-CUSTODY PROTOCOL (MOUNTED)</b></summary>
+<summary><b>📕 [DOSSIER_01] // STANDARD OPERATING PROCEDURE: CHAIN-OF-CUSTODY &amp; ACQUISITION</b></summary>
 <br>
 
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ CASE_ID: PX-2026-8841 // ACQUISITION_MODE: HARDWARE_WRITE_BLOCKED // HASH: SHA-256            ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-+ [STAGE 01 :: IDENTIFY]  ==> Pinpoint physical/virtual media & log device serial UUIDs
-+ [STAGE 02 :: ISOLATE ]  ==> Engage hardware write-blocker & Faraday RF shielding
-+ [STAGE 03 :: ACQUIRE ]  ==> Bit-stream raw clone (.dd / .raw / .E01) with zero source mutation
-+ [STAGE 04 :: HASH    ]  ==> Generate primary SHA-256 cryptographic digest at source
-+ [STAGE 05 :: VERIFY  ]  ==> Compare clone hash against source hash (100% bit-level parity)
-+ [STAGE 06 :: ANALYZE ]  ==> Carve magic headers, parse MACB timestamps & extract artifacts
-+ [STAGE 07 :: SEAL    ]  ==> Encode PHANIX Optical QR Seal & export courtroom report
-! [WARNING] Any single-bit deviation invalidates custody seal and triggers alert 0xDEAD.
+```ini
+[PROTOCOL_HEADER]
+Standard     = ISO/IEC 27037 Digital Evidence Preservation
+Host_System  = Arch Linux x86_64 (Write-Blocked Loopback)
+Verification = Dual-Pass Cryptographic Parity
+
+[EXECUTION_STAGES]
+01_SEIZE     = Isolate physical/virtual target & engage hardware write-blocker
+02_IMAGE     = Execute bit-stream raw capture (.dd / .E01) with zero source mutation
+03_FINGERPRT = Compute SHA-256 digest across raw byte stream
+04_SEAL      = Generate PHANIX Optical QR Seal containing hash + UTC timestamp
+05_AUDIT     = Re-verify bit-level parity prior to courtroom export
 ```
 
 </details>
 
 <details>
-<summary><b> terminal [CONSOLE 02] // ARCH LINUX FORENSIC PLAYBOOK & LIVE COMMANDS</b></summary>
+<summary><b>📓 [DOSSIER_02] // ARCH LINUX FORENSIC TERMINAL PLAYBOOK</b></summary>
 <br>
 
 ```bash
-# [01] Create bit-stream forensic image with live progress & SHA-256 calculation:
-[root@phanix-station ~]# dd if=/dev/sdb of=evidence_disk.raw bs=4M status=progress conv=noerror,sync
-[root@phanix-station ~]# sha256sum evidence_disk.raw | tee evidence_disk.raw.sha256
+# [01] Bit-stream forensic acquisition with synchronized I/O & live progress:
+[root@phanix-arch ~]# dd if=/dev/sdb of=evidence_image.raw bs=4M conv=noerror,sync status=progress
 
-# [02] Mount forensic image strictly READ-ONLY via loopback with noatime:
-[root@phanix-station ~]# mount -o ro,loop,noatime,norecovery evidence_disk.raw /mnt/forensic_ro
+# [02] Generate cryptographic SHA-256 seal:
+[root@phanix-arch ~]# sha256sum evidence_image.raw | tee evidence_image.raw.sha256
 
-# [03] Inspect magic bytes, file signatures & MACB timestamps:
-[root@phanix-station ~]# file -k suspicious_payload.bin && stat suspicious_payload.bin
+# [03] Mount image strictly READ-ONLY without modifying access timestamps:
+[root@phanix-arch ~]# mount -o ro,loop,noatime,norecovery evidence_image.raw /mnt/evidence_ro
 
-# [04] Extract high-entropy strings & hunt for C2 indicators / credentials:
-[root@phanix-station ~]# strings -a -n 8 suspicious_payload.bin | grep -iE 'http|token|ssh|key|admin|bearer'
+# [04] Carve high-entropy strings & inspect magic header signatures:
+[root@phanix-arch ~]# file -k artifact.bin && strings -a -n 8 artifact.bin | grep -iE 'http|key|token|ssh'
 ```
 
 </details>
 
 <details>
-<summary><b>🧠 [CONSOLE 03] // R&D CLASSIFIED ROADMAP & UPCOMING ARCHITECTURES</b></summary>
+<summary><b>📔 [DOSSIER_03] // CRYPTOGRAPHIC SIGNATURE VERIFICATION (TERMINAL EASTER EGG)</b></summary>
 <br>
 
-```diff
-+ [ACTIVE_R&D_01] :: Air-Gapped Forensic RAG Engine
-  Natural-language interrogation across 1,000+ page case dossiers and log dumps using local Ollama LLMs with strict citation anchoring.
-
-+ [ACTIVE_R&D_02] :: ECDSA-Signed Optical Custody Seals
-  Upgrading forensic QR tags with asymmetric elliptic-curve digital signatures so field scanners can verify investigator authenticity offline.
-
-+ [ACTIVE_R&D_03] :: Volatile RAM Triage Utility (C / Python)
-  Lightweight cross-platform memory acquisition and process-tree anomaly scanner for live incident response.
-
-! [ACTIVE_R&D_04] :: Automated OSINT Graph Correlator
-  Cross-referencing aliases, domains, certificates, and public breach metadata into an interactive node graph.
-```
-
-</details>
-
-<details>
-<summary><b>🔐 [CONSOLE 04] // VERIFY PHANEENDHAR'S CRYPTOGRAPHIC EASTER EGG IN YOUR TERMINAL</b></summary>
-<br>
-
-Run this command in any Linux / macOS / WSL terminal to decode the embedded PHANIX forensic signature directly from raw hex:
+Execute this pipeline in any Linux, macOS, or WSL shell to decode the embedded PHANIX operator signature from raw hexadecimal:
 
 ```bash
-echo "5b5048414e49582d464f52454e5349432d53554954455d2045564944454e434520494e54454752495459205645524946494544202f2f204f50455241544f523a205048414e45454e44484152204e495454414c410a" | xxd -r -p
+echo "5b5048414e49582d444f53534945525d2043525950544f47524150484943205345414c205645524946494544202f2f204152434849544543543a205048414e45454e44484152204e495454414c410a" | xxd -r -p
 ```
 
 </details>
@@ -509,72 +385,41 @@ echo "5b5048414e49582d464f52454e5349432d53554954455d2045564944454e434520494e5445
 ---
 
 <!-- ===================================================================== -->
-<!-- 08 // INVESTIGATION METHODOLOGY & PHILOSOPHY                          -->
+<!-- 08 // SOVEREIGN DOCTRINE & ARCHIVAL SEAL FOOTER                       -->
 <!-- ===================================================================== -->
-```diff
-+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-+ ┃ 08 // CORE DOCTRINE & INVESTIGATION METHODOLOGY                                      [DOCTRINE: SET] ┃
-+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 <div align="center">
 
-```text
-┏━━━━━━━━━━━━┓    ┏━━━━━━━━━━━━┓    ┏━━━━━━━━━━━━┓    ┏━━━━━━━━━━━━┓    ┏━━━━━━━━━━━━┓    ┏━━━━━━━━━━━━┓
-┃ 01. QUERY  ┃ -> ┃ 02. SEIZE  ┃ -> ┃ 03. FREEZE ┃ -> ┃ 04. HASH   ┃ -> ┃ 05. CARVE  ┃ -> ┃ 06. TESTIFY┃
-┗━━━━━━━━━━━━┛    ┗━━━━━━━━━━━━┛    ┗━━━━━━━━━━━━┛    ┗━━━━━━━━━━━━┛    ┗━━━━━━━━━━━━┛    ┗━━━━━━━━━━━━┛
-```
-
-### **"Question everything. Preserve everything. Verify everything."**
-
-</div>
-
-```diff
-+ "Forensic science taught me to look at evidence."
-+ "Programming taught me to build the tools."
-+ "Cybersecurity taught me to anticipate the attack."
-+ "AI showed me new ways to connect the pieces."
-! "PHANIX is where they converge."
-```
-
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center">
+      <br>
+      <code>[ 01. QUESTION ] ━━━▶ [ 02. ISOLATE ] ━━━▶ [ 03. ACQUIRE ] ━━━▶ [ 04. HASH ] ━━━▶ [ 05. VERIFY ] ━━━▶ [ 06. TESTIFY ]</code>
+      <br><br>
+      <h3><b>"Forensic science taught me to examine the evidence. Programming taught me to build the instruments. Cybersecurity taught me to anticipate the adversary. PHANIX is where they converge."</b></h3>
+      <sub><b>EVERY FILE TELLS A STORY &nbsp;•&nbsp; EVERY LOG LEAVES A TRACE &nbsp;•&nbsp; EVERY BYTE CAN MATTER</b></sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <br>
-<img width="85%" src="assets/motto-banner.svg" alt="Every Byte Can Matter" />
-
-### **Every file tells a story. Every log leaves a trace. Every byte can matter.**
-
-`[ INVESTIGATE ]` &nbsp;•&nbsp; `[ VERIFY ]` &nbsp;•&nbsp; `[ ENGINEER ]`
-
-<br>
-
-<!-- ===================================================================== -->
-<!-- 09 // MAINFRAME FOOTER & DIRECT COMMS UPLINK                          -->
-<!-- ===================================================================== -->
-<img width="100%" src="assets/retro-footer.svg" alt="Retro Mission Footer" />
-
-<br><br>
 
 <a href="https://github.com/NPhaneendhar">
-  <img src="assets/phanix-icon.png" width="80" alt="PHANIX Icon" />
+  <img src="assets/phanix-icon.png" width="70" alt="PHANIX Seal" />
 </a>
 
-# `P.H.A.N.I.X`
-### **Built with curiosity. Driven by evidence. Engineered with purpose.**
+### `P . H . A . N . I . X   //   F O R E N S I C   L A B S`
 
 <p>
-  <a href="https://github.com/NPhaneendhar"><img src="https://img.shields.io/badge/GITHUB-NPhaneendhar-39D353?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=161B22"/></a>
-  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-INSPECT-39D353?style=for-the-badge&logo=safari&logoColor=0D1117&labelColor=161B22"/></a>
-  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/LINKEDIN-NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"/></a>
-  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/DISPATCH-CONNECT-D93025?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22"/></a>
+  <a href="https://github.com/NPhaneendhar"><img src="https://img.shields.io/badge/GITHUB-NPhaneendhar-E2E8F0?style=for-the-badge&logo=github&logoColor=0A0C10&labelColor=0A0C10"/></a>
+  <a href="https://nphaneendhar.github.io/phaneendhar-nittala-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-DOSSIER-FF2A54?style=for-the-badge&logo=safari&logoColor=FFFFFF&labelColor=0A0C10"/></a>
+  <a href="https://www.linkedin.com/in/phaneendhar-nittala-a2a3443a1/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-E2E8F0?style=for-the-badge&logo=linkedin&logoColor=0A0C10&labelColor=0A0C10"/></a>
+  <a href="mailto:nittalaphaneendhar@gmail.com"><img src="https://img.shields.io/badge/DISPATCH-EMAIL-FF2A54?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0A0C10"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=NPhaneendhar&style=flat-square&label=VERIFIED%20VISITOR%20HASHES&color=39D353&labelColor=161B22"/>
-
-<br><br>
-
-```diff
-- [SYS_HALT // SESSION_LOGGED] © PHANEENDHAR NITTALA // ARCH LINUX x86_64 // PHANIX FORENSIC LABS
+```ini
+║▌║█║▌│║▌║▌█  EOF // © PHANEENDHAR NITTALA  //  ARCH LINUX x86_64  //  ALL ARTIFACTS VERIFIED  ║▌║█║▌│║▌║▌█
 ```
 
 </div>
